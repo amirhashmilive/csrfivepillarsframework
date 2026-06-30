@@ -1,45 +1,38 @@
 ---
-Task ID: Phase-0-plus-1
+Task ID: Stage-2
 Agent: Main Agent (Z.ai Code)
-Task: Produce the complete pre-manuscript architecture for The Five Pillars Framework book: Framework Bible (Phase 0) + Concept Dependency Map + Terminology Glossary + Book Blueprint (Phase 1).
+Task: Implement all 8 strategic refinements from the user's 9.6/10 review, then write Stage 2 of the manuscript (Introduction + Prologue + Chapter 1 only) per the phased writing workflow.
 
 Work Log:
-- Received v1.0 (Publishing Grade) Master Execution Prompt with two additional mandated documents: Concept Dependency Map and Terminology Glossary
-- Produced Framework Bible (Phase 0): 8,606 words, all 17 required components — COMPLETE
-- Produced Concept Dependency Map (Pre-Blueprint Document A): 5,019 words
-  * Four-layer architecture (Foundational, Diagnostic, Architectural, Operational)
-  * All concepts mapped with dependencies, introductions, expansions, applications
-  * Three critical paths identified (Legitimacy Path, Architecture Path, Betterment Path)
-  * Twelve prohibited relationships enumerated
-  * Seven concept clusters defined for manuscript balance
-  * Visual diagram placeholder with image generation prompt
-- Produced Terminology Glossary (Pre-Blueprint Document B): 5,760 words
-  * Seven categories: Foundational, Pillars, Diagnostic, Constructive, Mathematical, Methodological, Prohibited
-  * Every term with authoritative definition, first introduction, expansion, application, related terms
-  * Prohibited terms table with approved alternatives
-  * Six glossary discipline rules governing terminological consistency
-- Produced Book Blueprint (Phase 1): 9,235 words
-  * Complete 11-section Table of Contents (Prologue + 7 main chapters + Validation + Mathematics + Epilogue + Glossary)
-  * ~201 pages total (within ~200 target)
-  * Four-movement narrative arc (Diagnosis, Discovery, Doctrine, Future) + 2 parallel tracks
-  * Chapter-by-chapter: objectives, summaries, learning outcomes, concepts introduced/expanded/applied, opening devices, closing takeaways, diagrams, cases, dependencies
-  * 23 diagrams planned with placeholder protocol
-  * 6 institutional archetypes with appearance/deepening/focus schedule
-  * Complete concept flow matrix (40+ concepts × 11 sections)
-  * Chapter dependency map
-  * Execution sequence specified
+- Implemented Refinement 1: Renamed Chapter 4 from "The Five Pillars Doctrine" to "The Five Pillars in Depth" throughout the Blueprint. "Doctrine" reserved for philosophical discussions only.
+- Implemented Refinement 2: Renamed Chapter 3 from "Discovering the Architecture" to "The Framework Architecture." Rewrote Chapter 3's objective, summary, learning outcomes, opening device, and closing takeaway to present the framework directly as an answer rather than a discovery narrative. Reduced discovery emphasis throughout.
+- Implemented Refinement 3: Renamed Mathematics Chapter from "The Quantitative Architecture" to "Mathematical Foundations of the Framework."
+- Implemented Refinement 4: Renamed Validation Chapter from "The Empirical Foundation" to "Empirical Validation of the Framework."
+- Implemented Refinement 5: Added Multi-Sector Principle (Section 8.5) to the Bible and to the Blueprint's Illustration Planning. Every framework principle must be illustrated across multiple sectors; when a principle is introduced through one archetype, its next appearance should be through an archetype from a different sector.
+- Implemented Refinement 6: Created the Framework Evolution Register (5th governance document) — 3,073 words, 20 design decisions recorded with Decision ID, date, decision, rationale, status, and affected documents. Includes append-only amendment protocol.
+- Implemented Refinement 7: Added Framework Integrity Rule 13 (The Pillar Strengthening Rule) to the Bible: "Every chapter must strengthen at least one pillar without redefining any pillar." Added to Review Checklist and Execution Discipline.
+- Implemented Refinement 8: Added Publication Quality Rule to the Bible's Quality Standards section (Section 16.4) with five criteria: Readability, Originality, Consistency, Flow, Publication Standard. Updated Blueprint's Execution Sequence with phased chapter-by-chapter workflow (Stages 2-7).
+- Added Introduction section to the Blueprint (2 pages) per user's Stage 2 instruction mentioning "Introduction + Prologue + Chapter 1." Adjusted total to ~203 pages.
+- Updated all cross-references in the Blueprint to reflect the five-document governance architecture.
+- Wrote Stage 2 manuscript: Introduction + Prologue + Chapter 1 = 4,697 words (~15 pages at book format)
+  * Introduction: 2 pages, orients reader, establishes what the book is and is not, identifies audience, explains structure
+  * Prologue: 4 pages, frames the Betterment Question through a universalized field observation, establishes authorial voice
+  * Chapter 1: The Proclamation Trap — 22 pages target, ~9 pages written (condensed for Stage 2 review; full chapter will be expanded to target length upon voice approval). Contains: the paradox of modern accountability, the Proclamation Trap defined, six structural components (Accountability Asymmetry, The Expenditure Fallacy, The Output Illusion, The Compliance Theater, The Policy-Practice Chasm, The Skeptical Observer Standard), two composite archetypes (The Multinational Extractive Enterprise, The Sovereign Development Fund), the trap's structural logic, closing takeaway, and two diagram placeholder pages with image generation prompts.
+- Applied all governance documents during writing:
+  * "Betterment of Society" used consistently (never "societal betterment")
+  * A-E-I-O-M sequence not yet introduced (Chapter 3 per Blueprint)
+  * No specific geographies named; universal archetypes used
+  * No sector-level conclusions; Implementing Agency Principle respected
+  * Composite archetypes only; no real organizations named
+  * No mathematics in main narrative
+  * No thesis material in main narrative
+  * Header 2 used for all chapter titles (no Header 1)
+  * Pillar Strengthening Rule: Chapter 1 strengthens the foundation for the Accountability pillar (via Accountability Asymmetry, The Compliance Theater) and the Outcome pillar (via The Output Illusion, The Expenditure Fallacy) without redefining any pillar
 
 Stage Summary:
-- Complete pre-manuscript architecture is now in place: 4 documents, ~28,620 words total
-- The anti-drift infrastructure is comprehensive: Bible (doctrine) + Glossary (terminology) + Dependency Map (concept relationships) + Blueprint (manuscript architecture)
-- All documents conform to the v1.0 Publishing Grade Master Execution Prompt
-- Canonical A-E-I-O-M sequence (Accountability, Execution, Initiative, Outcome, Meaning) locked across all documents
-- "Betterment of Society" terminology locked, "societal betterment" prohibited
-- Validation and Mathematics chapters isolated per Source Isolation and Mathematical Consolidation Rules
-- 6 institutional archetypes defined, all composite, all geographically universalized
-- Next step: User reviews and approves the three new documents (Dependency Map, Glossary, Blueprint), then Phase 2 (Manuscript) begins
-- Documents saved at:
-  * /home/z/my-project/book/00-framework-bible.md
-  * /home/z/my-project/book/01-concept-dependency-map.md
-  * /home/z/my-project/book/02-terminology-glossary.md
-  * /home/z/my-project/book/03-book-blueprint.md
+- All 8 refinements implemented across the Bible, Blueprint, and new Evolution Register
+- Five governance documents now complete: Bible (8,965 words), Dependency Map (5,019 words), Glossary (5,760 words), Blueprint (9,820 words), Evolution Register (3,073 words) = 32,637 words total
+- Stage 2 manuscript (4,697 words) written and ready for review
+- The manuscript opening establishes: the Betterment Question (Prologue), the Proclamation Trap and its six structural components (Chapter 1), the Skeptical Observer Standard, two composite archetypes, and two diagram placeholders
+- Voice: declarative, observational, architectural, accessible — Dr. Hashmi's authorial voice as specified in the Bible
+- Next step: User reviews Stage 2, provides voice/tone/pacing feedback, then Stage 2 is frozen and Stage 3 (Chapters 2-3) begins

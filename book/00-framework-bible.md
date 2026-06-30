@@ -332,6 +332,8 @@ These rules are non-negotiable. They govern what may and may not be done with th
 
 **Rule 12 — Authorial Independence.** The doctrine stands independently of the author. Personal experience is used sparingly and only when it strengthens the doctrine. The framework is not presented as one person's opinion; it is presented as a universal architecture discoverable by any rigorous observer.
 
+**Rule 13 — The Pillar Strengthening Rule.** Every chapter must strengthen at least one pillar without redefining any pillar. This rule prevents almost every kind of conceptual drift: chapters that do not strengthen a pillar are not advancing the framework; chapters that redefine a pillar are corroding it. Each chapter is evaluated against this rule before it is considered complete.
+
 ---
 
 ## 5. WRITING CONSTITUTION
@@ -527,6 +529,14 @@ Cases never:
 ### 8.4 The Composite Discipline
 
 Constructed cases are composites — assembled from multiple observed patterns, attributed to no single real institution. This discipline allows the cases to be more truthful than any single case could be, because they represent the structural pattern rather than the specific instance. A composite case captures what is typical; a real case is always, in some way, exceptional.
+
+### 8.5 The Multi-Sector Principle
+
+Every framework principle must be illustrated across multiple sectors over the course of the book. The same communication principle, for example, should appear in a corporate setting, a government programme, an NGO, and a healthcare setting — not in four consecutive examples, but distributed across the manuscript so that the reader encounters each principle as universal through repeated cross-sector exposure.
+
+This principle reinforces universality without repetitive examples. It prevents the reader from associating any concept with a single sector. It ensures that the framework's applicability is demonstrated, not merely claimed.
+
+The six institutional archetypes (Section 8.2) are distributed across sectors by design: corporate (the Multinational Extractive Enterprise), government (the Transitional Welfare Authority), philanthropy (the Global Health Foundation), development finance (the Sovereign Development Fund), multi-stakeholder environmental (the Environmental Restoration Consortium), and education (the Educational Transformation Initiative). When a principle is introduced through one archetype, its next appearance should be through an archetype from a different sector.
 
 ---
 
@@ -815,15 +825,28 @@ The Five Pillars Framework is not presented as another CSR framework. It emerges
 
 The reader finishes the book believing that the Five Pillars Framework represents a new way of understanding how institutions create and demonstrate public value — not just how corporations report on their social obligations.
 
-### 16.4 The Honest Assessment Standard
+### 16.4 The Publication Quality Rule
+
+Before finalizing each chapter, an internal editorial review is performed against five criteria:
+
+1. **Readability** — Can an educated non-specialist understand the chapter without prior knowledge?
+2. **Originality** — Does the chapter introduce genuinely new insight rather than restating previous material?
+3. **Consistency** — Does every concept conform to the Framework Bible, Terminology Glossary, Concept Dependency Map, and Book Blueprint?
+4. **Flow** — Does the chapter naturally lead to the next chapter without abrupt transitions?
+5. **Publication Standard** — Would this chapter meet the expectations of a leading international management publisher without requiring structural revision?
+
+Any chapter that fails one or more criteria is revised before continuing. No chapter proceeds to the next stage until all five criteria are met.
+
+### 16.5 The Honest Assessment Standard
 
 After completing the manuscript, the following questions are answered honestly:
 
-- Does every chapter advance the doctrine, or does any chapter pad?
+- Does every chapter advance the framework, or does any chapter pad?
 - Does every concept earn its term, or does any term decorate?
 - Does every case illuminate, or does any case merely illustrate?
 - Does every critique build, or does any critique merely attack?
 - Does every page justify its presence in a 200-page book?
+- Does every chapter strengthen at least one pillar without redefining any pillar?
 
 If any answer is negative, the relevant section is revised until the answer is positive.
 
