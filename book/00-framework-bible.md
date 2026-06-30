@@ -334,6 +334,8 @@ These rules are non-negotiable. They govern what may and may not be done with th
 
 **Rule 13 — The Pillar Strengthening Rule.** Every chapter must strengthen at least one pillar without redefining any pillar. This rule prevents almost every kind of conceptual drift: chapters that do not strengthen a pillar are not advancing the framework; chapters that redefine a pillar are corroding it. Each chapter is evaluated against this rule before it is considered complete.
 
+**Rule 14 — The Reader Momentum Rule.** Every chapter must conclude with an unresolved question, insight, or tension that naturally encourages the reader to continue. Each chapter must answer one important question while opening the next. This ensures the manuscript reads as a continuous journey rather than a series of independent essays. A chapter that closes without opening the next has failed the reader's momentum.
+
 ---
 
 ## 5. WRITING CONSTITUTION
@@ -544,7 +546,7 @@ The six institutional archetypes (Section 8.2) are distributed across sectors by
 
 ### 9.1 When to Diagram
 
-Diagrams are used only when they communicate a relationship that prose cannot communicate as clearly. The book is not diagram-heavy. A diagram that merely illustrates what the text already said is a diagram that should be cut.
+Diagrams are used only when they communicate a relationship that prose cannot communicate as clearly. A diagram that merely illustrates what the text already said is a diagram that should be cut. Every chapter must be evaluated for visualization opportunities before it is considered complete.
 
 Diagrams earn their place when they show:
 
@@ -553,27 +555,51 @@ Diagrams earn their place when they show:
 - Gradients (the Proclamation-Proof Gradient)
 - Architectures (the Trust Layer)
 - Sequences (the A-E-I-O-M dependency chain)
+- Processes (the Legitimacy Migration Path)
+- Comparisons (Traditional CSR vs. The Five Pillars Framework)
+- Decisions (Is this communication usable?)
 
-### 9.2 Diagram Standards
+### 9.2 The Three Tests
+
+Every diagram must pass three tests before it is approved:
+
+1. **The 30-Second Test** — Can an educated reader understand the figure within 30 seconds of first viewing it?
+2. **The Stand-Alone Test** — Is the figure memorable and comprehensible without explanatory text?
+3. **The Reusability Test** — Can the figure be extracted and used in a presentation slide, training manual, or workshop without redesign?
+
+If a figure fails any test, it is redesigned or removed.
+
+### 9.3 Diagram Standards
 
 Every diagram:
 
 - Uses the framework's visual language (Section 11)
 - Is referenced in the text by name, not by figure number (figure numbers shift during layout; named references are stable)
-- Has a corresponding Image Generation Prompt for the visual production team
+- Has a corresponding Visual Specification (per the Visual Communication Constitution) for the visual production team
 - Is designed to remain intelligible for fifty years (no dependence on contemporary visual conventions)
+- Passes the Photocopy Test (fully understandable in black-and-white photocopy)
+- Conforms to the Diagram Constitution (per the Visual Communication Constitution)
 
-### 9.3 The Placeholder Protocol
+### 9.4 The Placeholder Protocol
 
 For every diagram in the manuscript:
 
-1. A blank page is left as placeholder
-2. A detailed Image Generation Prompt is written for the visual production team
-3. No figure numbers or sequential numbering is used (these shift during layout)
+1. A placeholder is inserted at the appropriate location
+2. A Visual Specification is produced (per the Visual Communication Constitution)
+3. The figure is entered in the Figure Register with a permanent Figure ID
+4. No figure numbers or sequential numbering is used in the text (Figure IDs are used internally; the published book may assign sequential numbers during layout)
 
-### 9.4 The Visual Integrity Rule
+### 9.5 The Visual Integrity Rule
 
 The same concept is always represented the same way visually. The Five Pillars are always five vertical structures in A-E-I-O-M order. The Proclamation-Proof Gradient is always a horizontal spectrum. The Trust Layer is always a foundational layer beneath the pillars. Consistency across diagrams is mandatory; visual inconsistency undermines doctrinal coherence.
+
+### 9.6 The Anti-Decoration Principle
+
+Visuals are not rewards for reading. They are not breaks from the text. They are cognitive instruments — tools that compress complex relationships into forms the mind can grasp quickly and remember durably. A visual that decorates without teaching is a visual that should be cut.
+
+### 9.7 Reference to the Visual Communication Constitution
+
+The complete visual architecture — including the ten visualization types, the black-and-white design rules, the Diagram Constitution, the Figure Register, and the Visual Specification Protocol — is defined in the **Visual Communication Constitution** (the sixth governance document). This section of the Bible provides the governing principles; the Visual Communication Constitution provides the operational detail.
 
 ---
 
@@ -714,7 +740,13 @@ Every chapter opens with something that creates curiosity — a question, a para
 
 Every chapter closes with one memorable takeaway — a single statement that encapsulates the chapter's contribution to the doctrine. The takeaway is not a summary. It is a distillation. If the reader remembers nothing else from the chapter, they remember the takeaway.
 
-### 13.6 Specialized Chapters
+### 13.6 The Reader Momentum Rule
+
+Every chapter must conclude with an unresolved question, insight, or tension that naturally encourages the reader to continue. Each chapter must answer one important question while opening the next. This ensures the manuscript reads as a continuous journey rather than a series of independent essays.
+
+The closing takeaway and the reader momentum are not in conflict. The takeaway distills what the chapter has established; the momentum opens what the next chapter must address. Together, they create the experience of a book the reader cannot put down — not because of suspense, but because each chapter's answer makes the next chapter's question inevitable.
+
+### 13.7 Specialized Chapters
 
 The Validation Chapter and Mathematics Chapter follow different rules:
 

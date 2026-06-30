@@ -237,8 +237,113 @@ Each entry contains:
 **Date:** [Pre-manuscript refinement — v1.0 Publishing Grade]
 **Decision:** The pre-manuscript architecture consists of five governance documents, not four: (1) Framework Bible, (2) Concept Dependency Map, (3) Terminology Glossary, (4) Book Blueprint, (5) Framework Evolution Register (this document).
 **Rationale:** The Evolution Register prevents accidental reversals of major design decisions months or years later. It serves as the permanent change log and institutional memory of the project. Without it, the other four documents are vulnerable to silent amendment.
-**Status:** Active
+**Status:** Superseded by D-026
 **Affected Documents:** All governance documents (cross-referenced), Blueprint (Closing section updated to reference five documents)
+
+---
+
+### D-021 — Reader Momentum Rule (Rule 14)
+
+**Date:** [Stage 2 revision — Editorial refinement pass]
+**Decision:** Added Framework Integrity Rule 14: "Every chapter must conclude with an unresolved question, insight, or tension that naturally encourages the reader to continue. Each chapter must answer one important question while opening the next." Applied to every chapter before it is considered complete.
+**Rationale:** Ensures the manuscript reads as a continuous journey rather than a series of independent essays. The rule creates the experience of a book the reader cannot put down — not through suspense, but through the inevitability of each chapter's answer making the next chapter's question necessary.
+**Status:** Active
+**Affected Documents:** Bible (Rule 14, Section 13.6), Blueprint (Execution Discipline, all chapter specifications)
+
+---
+
+### D-022 — Chapter 1 Reduced to Four Concepts
+
+**Date:** [Stage 2 revision — Editorial refinement pass]
+**Decision:** Chapter 1's diagnostic vocabulary reduced from six concepts to four. The four concepts retained in Chapter 1: The Expenditure Fallacy, The Output Illusion, The Compliance Theater, The Skeptical Observer Standard. The two concepts deferred: Accountability Asymmetry (moved to Chapter 4, where it connects to the Accountability pillar) and The Policy-Practice Chasm (moved to Chapter 6, where it connects to the Execution pillar).
+**Rationale:** Six diagnostic concepts in an opening chapter exceed the reader's cognitive load for a first chapter. Four concepts create a more gradual learning journey. The deferred concepts find their natural home in later chapters where they connect to specific pillars. This also tightens Chapter 1's focus on the Proclamation Trap as its single central concept.
+**Status:** Active
+**Supersedes:** (Original Chapter 1 concept list in Phase 1 Blueprint)
+**Affected Documents:** Blueprint (Chapter 1 specification, Concept Flow Summary), Glossary (introduction locations for Accountability Asymmetry and Policy-Practice Chasm updated), Dependency Map (Layer 2 introduction locations updated)
+
+---
+
+### D-023 — Skeptical Observer Standard as Recurring Principle
+
+**Date:** [Stage 2 revision — Editorial refinement pass]
+**Decision:** The Skeptical Observer Standard is established as a recurring evaluation standard used throughout the book whenever institutional claims are examined, rather than being confined to Chapter 1.
+**Rationale:** The Skeptical Observer Standard has the potential to become one of the signature principles of the framework. Limiting it to Chapter 1 underutilizes its power. As a recurring principle, it becomes the consistent evidentiary bar against which claims are measured across all chapters, reinforcing the framework's coherence.
+**Status:** Active
+**Affected Documents:** Bible (Section 1.3, Skeptical Observer Standard entry), Glossary (Skeptical Observer Standard entry — application locations expanded), Blueprint (all chapter specifications where claims are examined)
+
+---
+
+### D-024 — Introduction Reframed Around Reader's Problem
+
+**Date:** [Stage 2 revision — Editorial refinement pass]
+**Decision:** The Introduction is rewritten to begin with the reader's problem (why do institutions spend billions yet struggle to earn public trust?) rather than the book's identity (what this book is). The framework is introduced by name only, creating anticipation rather than explanation.
+**Rationale:** Readers first connect with a problem, not with an explanation of the book. Beginning with the reader's problem engages the reader before any framework is introduced. Introducing the framework by name without explanation creates anticipation that carries the reader into the Prologue.
+**Status:** Active
+**Supersedes:** (Original Introduction specification in Phase 1 Blueprint)
+**Affected Documents:** Blueprint (Introduction specification)
+
+---
+
+### D-025 — Draft → Revised Draft → Frozen Workflow
+
+**Date:** [Stage 2 revision — Editorial refinement pass]
+**Decision:** Each stage of the phased writing workflow now follows a three-step approval cycle: Draft → Revised Draft → Frozen. The Draft is the initial writing. The Revised Draft is one intentional revision pass based on review feedback. Frozen is the locked state.
+**Rationale:** The original Draft → Frozen workflow allowed only one pass before locking. The revised workflow allows one intentional refinement before commitment, preventing both premature freezing and endless revision. This is particularly important for the opening chapters, which establish the tone for the entire book.
+**Status:** Active
+**Supersedes:** (Original execution sequence in Phase 1 Blueprint)
+**Affected Documents:** Blueprint (Execution Sequence)
+
+---
+
+### D-026 — Six Governance Documents (Visual Communication Constitution Added)
+
+**Date:** [Stage 2 revision — Editorial refinement pass]
+**Decision:** The pre-manuscript architecture now consists of six governance documents, not five: (1) Framework Bible, (2) Concept Dependency Map, (3) Terminology Glossary, (4) Book Blueprint, (5) Framework Evolution Register, (6) Visual Communication Constitution.
+**Rationale:** The Visual Communication Constitution transforms the book from a text-heavy manuscript into a professional, teachable framework. It standardizes every figure, enables reuse across derivative works, and ensures the visual architecture is as rigorous as the intellectual architecture. Without it, visual elements would be ad hoc, inconsistent, and non-reusable.
+**Status:** Active
+**Supersedes:** D-020
+**Affected Documents:** All governance documents (cross-referenced), Blueprint (Closing section updated to reference six documents)
+
+---
+
+### D-027 — Page Count Adjusted to ~224
+
+**Date:** [Stage 2 revision — Editorial refinement pass]
+**Decision:** The target page count adjusted from ~200 to ~224 pages. The text density remains at the original ~200-page level; the additional ~24 pages accommodate approximately 100 visual elements per the Visual Communication Constitution.
+**Rationale:** The Visual Communication Constitution mandates approximately 100 visual elements (framework diagrams, process flows, concept maps, decision trees, comparison tables, scorecards, mathematical visualizations, research visualizations, executive summary graphics, and chapter maps). These elements require space. The adjustment ensures the visual architecture has room without compressing the text.
+**Status:** Active
+**Supersedes:** (Original ~200-page target in Phase 1 Blueprint)
+**Affected Documents:** Blueprint (TOC, page counts, Narrative Progression Summary)
+
+---
+
+### D-028 — Figure Register Established
+
+**Date:** [Stage 2 revision — Editorial refinement pass]
+**Decision:** A Figure Register is maintained as a companion to the Visual Communication Constitution. Every figure has a permanent Figure ID (FPF-001, FPF-002, etc.), title, type, chapter, status, and notes. The register ensures no figure is duplicated, no figure contradicts another's visual language, and every figure can be located and reused.
+**Rationale:** Without a Figure Register, figures become untrackable across a 224-page manuscript with 100 visual elements. The register enables the visual design phase to produce all figures consistently and enables derivative works to reference figures by ID without redesign.
+**Status:** Active
+**Affected Documents:** Visual Communication Constitution (Figure Register section), Blueprint (all chapter diagram specifications)
+
+---
+
+### D-029 — Visual Specification Protocol (No Artwork During Drafting)
+
+**Date:** [Stage 2 revision — Editorial refinement pass]
+**Decision:** During manuscript drafting, the agent produces Visual Specifications (not finished artwork) for every figure. The manuscript contains figure placeholders with specifications. A dedicated Visual Design Phase produces all artwork after the manuscript is finalized.
+**Rationale:** Separating writing and design keeps the two disciplines independent, prevents constant figure revisions during drafting, results in a more polished publication, enables consistency, and supports derivative works. The writer focuses on content; the designer on form.
+**Status:** Active
+**Affected Documents:** Visual Communication Constitution (Visual Specification Protocol section), Bible (Section 9.4 — Placeholder Protocol updated), Blueprint (all chapter diagram specifications)
+
+---
+
+### D-030 — Black-and-White Print Design Rules
+
+**Date:** [Stage 2 revision — Editorial refinement pass]
+**Decision:** All visual elements must conform to black-and-white print design rules. Permitted: solid lines, dashed lines, dotted lines, arrows, grayscale, patterns, typography, numbering, icons. Prohibited: color, photographs, decorative illustrations, gradients, 3D effects, shadows. Every figure must pass the Photocopy Test.
+**Rationale:** The book is published as a black-and-white print volume. Visuals that rely on color fail in this format. The rules ensure every figure is fully understandable without color and survives photocopying — making the figures usable across all media and all reproduction qualities.
+**Status:** Active
+**Affected Documents:** Visual Communication Constitution (Black-and-White Design Rules section), Bible (Section 9 — Diagram Philosophy updated)
 
 ---
 

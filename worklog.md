@@ -1,38 +1,52 @@
 ---
-Task ID: Stage-2
+Task ID: Stage-2-Revised
 Agent: Main Agent (Z.ai Code)
-Task: Implement all 8 strategic refinements from the user's 9.6/10 review, then write Stage 2 of the manuscript (Introduction + Prologue + Chapter 1 only) per the phased writing workflow.
+Task: Implement all 10 editorial refinements from the user's 9.3/10 review, create the Visual Communication Constitution (6th governance document), add the Reader Momentum Rule, rewrite Stage 2 as a Revised Draft per the Draft → Revised Draft → Frozen workflow.
 
 Work Log:
-- Implemented Refinement 1: Renamed Chapter 4 from "The Five Pillars Doctrine" to "The Five Pillars in Depth" throughout the Blueprint. "Doctrine" reserved for philosophical discussions only.
-- Implemented Refinement 2: Renamed Chapter 3 from "Discovering the Architecture" to "The Framework Architecture." Rewrote Chapter 3's objective, summary, learning outcomes, opening device, and closing takeaway to present the framework directly as an answer rather than a discovery narrative. Reduced discovery emphasis throughout.
-- Implemented Refinement 3: Renamed Mathematics Chapter from "The Quantitative Architecture" to "Mathematical Foundations of the Framework."
-- Implemented Refinement 4: Renamed Validation Chapter from "The Empirical Foundation" to "Empirical Validation of the Framework."
-- Implemented Refinement 5: Added Multi-Sector Principle (Section 8.5) to the Bible and to the Blueprint's Illustration Planning. Every framework principle must be illustrated across multiple sectors; when a principle is introduced through one archetype, its next appearance should be through an archetype from a different sector.
-- Implemented Refinement 6: Created the Framework Evolution Register (5th governance document) — 3,073 words, 20 design decisions recorded with Decision ID, date, decision, rationale, status, and affected documents. Includes append-only amendment protocol.
-- Implemented Refinement 7: Added Framework Integrity Rule 13 (The Pillar Strengthening Rule) to the Bible: "Every chapter must strengthen at least one pillar without redefining any pillar." Added to Review Checklist and Execution Discipline.
-- Implemented Refinement 8: Added Publication Quality Rule to the Bible's Quality Standards section (Section 16.4) with five criteria: Readability, Originality, Consistency, Flow, Publication Standard. Updated Blueprint's Execution Sequence with phased chapter-by-chapter workflow (Stages 2-7).
-- Added Introduction section to the Blueprint (2 pages) per user's Stage 2 instruction mentioning "Introduction + Prologue + Chapter 1." Adjusted total to ~203 pages.
-- Updated all cross-references in the Blueprint to reflect the five-document governance architecture.
-- Wrote Stage 2 manuscript: Introduction + Prologue + Chapter 1 = 4,697 words (~15 pages at book format)
-  * Introduction: 2 pages, orients reader, establishes what the book is and is not, identifies audience, explains structure
-  * Prologue: 4 pages, frames the Betterment Question through a universalized field observation, establishes authorial voice
-  * Chapter 1: The Proclamation Trap — 22 pages target, ~9 pages written (condensed for Stage 2 review; full chapter will be expanded to target length upon voice approval). Contains: the paradox of modern accountability, the Proclamation Trap defined, six structural components (Accountability Asymmetry, The Expenditure Fallacy, The Output Illusion, The Compliance Theater, The Policy-Practice Chasm, The Skeptical Observer Standard), two composite archetypes (The Multinational Extractive Enterprise, The Sovereign Development Fund), the trap's structural logic, closing takeaway, and two diagram placeholder pages with image generation prompts.
-- Applied all governance documents during writing:
-  * "Betterment of Society" used consistently (never "societal betterment")
-  * A-E-I-O-M sequence not yet introduced (Chapter 3 per Blueprint)
-  * No specific geographies named; universal archetypes used
-  * No sector-level conclusions; Implementing Agency Principle respected
-  * Composite archetypes only; no real organizations named
-  * No mathematics in main narrative
-  * No thesis material in main narrative
-  * Header 2 used for all chapter titles (no Header 1)
-  * Pillar Strengthening Rule: Chapter 1 strengthens the foundation for the Accountability pillar (via Accountability Asymmetry, The Compliance Theater) and the Outcome pillar (via The Output Illusion, The Expenditure Fallacy) without redefining any pillar
+- Created Visual Communication Constitution (6th governance document, 3,577 words):
+  * Visual Philosophy with Three Tests (30-Second, Stand-Alone, Reusability)
+  * Ten Visualization Types (Framework Diagrams, Process Flows, Concept Maps, Decision Trees, Comparison Tables, Scorecards, Mathematical Visualization, Research Visualization, Executive Summary Graphics, Chapter Maps)
+  * Total target: ~100 visual elements
+  * Black-and-White Design Rules (Photocopy Test, Grayscale Hierarchy, Permitted/Prohibited elements)
+  * Diagram Constitution (per-figure requirements: Figure ID, Title, Type, Chapter, Purpose, Key Concepts, Layout, Caption, Placement, Cross-References)
+  * Figure Register format and protocol
+  * Visual Specification Protocol (no artwork during drafting; dedicated Visual Design Phase after manuscript finalization)
+  * Integration with writing process (before/during/after each chapter)
+- Updated Framework Bible:
+  * Added Rule 14 — The Reader Momentum Rule (every chapter concludes with unresolved question/tension that opens the next)
+  * Added Section 13.6 — The Reader Momentum Rule to Chapter Design Rules
+  * Expanded Section 9 (Diagram Philosophy) with Three Tests, updated Placeholder Protocol, Anti-Decoration Principle, and reference to Visual Communication Constitution
+- Updated Book Blueprint:
+  * Chapter 1 reduced from 6 concepts to 4 (retained: Expenditure Fallacy, Output Illusion, Compliance Theater, Skeptical Observer Standard; deferred: Accountability Asymmetry to Ch4, Policy-Practice Chasm to Ch6)
+  * Introduction reframed around reader's problem (not book's identity); framework name introduced without explanation (anticipation)
+  * Page count adjusted from ~203 to ~224 (accommodating ~100 visual elements)
+  * Execution Sequence updated with Draft → Revised Draft → Frozen workflow
+  * Skeptical Observer Standard positioned as recurring principle throughout book
+  * Reader Momentum Rule added to Execution Discipline
+  * Visual Communication Constitution integrated into Execution Discipline
+- Updated Framework Evolution Register:
+  * Added D-021 through D-030 (10 new decisions recorded)
+  * D-020 marked as Superseded by D-026 (six governance documents, not five)
+  * All new decisions include rationale, status, and affected documents
+- Wrote Stage 2 Revised Draft (5,350 words, ~16-18 pages):
+  * Introduction: Rewritten to begin with reader's problem ("Why do institutions spend billions yet struggle to earn public trust?"). Framework introduced by name only — "Throughout history, enduring institutions have succeeded not because they communicated more, but because five essential conditions remained aligned. This book calls those conditions the Five Pillars Framework." — creating anticipation without explanation.
+  * Prologue: Rewritten as a compelling scene. Opens with "The report was on the table between us — two hundred pages, professionally designed, externally assured, compliant with every relevant standard." The community outside the room was not better off. The scene draws the reader in immediately.
+  * Chapter 1: Focused tightly on The Proclamation Trap as the single central concept. Four structural components (down from six): The Expenditure Fallacy, The Output Illusion, The Compliance Theater, The Skeptical Observer Standard. The Skeptical Observer Standard explicitly established as a recurring principle: "It is not a standard for Chapter 1 alone. It is the recurring standard against which institutional claims will be examined throughout this book."
+  * Applied Reader Momentum Rule: Chapter 1 closes with a Reader Momentum section that opens the next chapter's question: "if institutions are trapped, why has the trap persisted for so long?"
+  * Applied Visual Communication Constitution: 5 figure placeholders with full Visual Specifications:
+    - FPF-001: The Proclamation-Proof Gradient (Process Flow)
+    - FPF-002: The Activity-Output-Outcome-Betterment Hierarchy (Framework Diagram)
+    - FPF-003: Reporting vs. Verification (Comparison Table)
+    - FPF-004: Activities vs. Outcomes Across Archetypes (Comparison Table)
+    - FPF-005: Chapter 1 Executive Summary (Executive Summary Graphic)
+  * Two composite archetypes retained: The Multinational Extractive Enterprise, The Sovereign Development Fund
+  * All governance documents applied: "Betterment of Society" (never "societal betterment"), no specific geographies, no sector-level conclusions, no mathematics in main narrative, no thesis material, Header 2 for chapter titles, Pillar Strengthening Rule satisfied (Chapter 1 strengthens foundation for Accountability and Outcome pillars without redefining any pillar)
 
 Stage Summary:
-- All 8 refinements implemented across the Bible, Blueprint, and new Evolution Register
-- Five governance documents now complete: Bible (8,965 words), Dependency Map (5,019 words), Glossary (5,760 words), Blueprint (9,820 words), Evolution Register (3,073 words) = 32,637 words total
-- Stage 2 manuscript (4,697 words) written and ready for review
-- The manuscript opening establishes: the Betterment Question (Prologue), the Proclamation Trap and its six structural components (Chapter 1), the Skeptical Observer Standard, two composite archetypes, and two diagram placeholders
-- Voice: declarative, observational, architectural, accessible — Dr. Hashmi's authorial voice as specified in the Bible
-- Next step: User reviews Stage 2, provides voice/tone/pacing feedback, then Stage 2 is frozen and Stage 3 (Chapters 2-3) begins
+- All 10 editorial refinements implemented
+- Six governance documents now complete: Bible (9,412 words), Dependency Map (5,019 words), Glossary (5,760 words), Blueprint (10,247 words), Evolution Register (4,323 words), Visual Communication Constitution (3,577 words) = 43,035 words total
+- 30 design decisions recorded in Evolution Register (D-001 through D-030)
+- Stage 2 Revised Draft complete (5,350 words) and ready for review
+- The Revised Draft addresses every point from the 9.3/10 review: reader-problem opening, scene-driven Prologue, focused 4-concept Chapter 1, Skeptical Observer Standard as recurring principle, composite archetypes from multiple sectors, strengthened visual philosophy (Three Tests), Diagram Constitution, framework name anticipation, Draft → Revised Draft → Frozen workflow, Reader Momentum Rule
+- Next step: User reviews Revised Draft. If approved, Stage 2 is Frozen and Stage 3 (Chapters 2-3) begins. If further refinement needed, one more revision pass is available before freezing.

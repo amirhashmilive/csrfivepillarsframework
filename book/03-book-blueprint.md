@@ -49,21 +49,23 @@ No prose. No manuscript writing. Architecture only.
 
 | # | Section | Pages | Cumulative |
 |---|---------|-------|-----------|
-| — | Introduction: How to Read This Book | 2 | 2 |
-| — | Prologue: The Question That Reframed Legitimacy | 4 | 6 |
-| 1 | The Proclamation Trap | 22 | 28 |
-| 2 | The Legitimacy Gap | 22 | 50 |
-| 3 | The Framework Architecture | 24 | 74 |
-| 4 | The Five Pillars in Depth | 26 | 100 |
-| 5 | The Trust Layer | 22 | 122 |
-| 6 | The Institutional Operating System | 22 | 144 |
-| 7 | The New Legitimacy | 20 | 164 |
-| — | Empirical Validation of the Framework | 18 | 182 |
-| — | Mathematical Foundations of the Framework | 15 | 197 |
-| — | Epilogue: The Skeptical Observer | 4 | 201 |
-| — | Glossary | 2 | 203 |
+| — | Introduction: How to Read This Book | 3 | 3 |
+| — | Prologue: The Question That Reframed Legitimacy | 5 | 8 |
+| 1 | The Proclamation Trap | 24 | 32 |
+| 2 | The Legitimacy Gap | 24 | 56 |
+| 3 | The Framework Architecture | 26 | 82 |
+| 4 | The Five Pillars in Depth | 30 | 112 |
+| 5 | The Trust Layer | 24 | 136 |
+| 6 | The Institutional Operating System | 24 | 160 |
+| 7 | The New Legitimacy | 22 | 182 |
+| — | Empirical Validation of the Framework | 20 | 202 |
+| — | Mathematical Foundations of the Framework | 16 | 218 |
+| — | Epilogue: The Skeptical Observer | 4 | 222 |
+| — | Glossary | 2 | 224 |
 
-**Total: ~203 pages** (within the ~200-page target)
+**Total: ~224 pages** (text content ~200 pages + visual element integration ~24 pages)
+
+The page count has been adjusted upward from ~200 to ~224 to accommodate approximately 100 visual elements (framework diagrams, process flows, concept maps, decision trees, comparison tables, scorecards, mathematical visualizations, research visualizations, executive summary graphics, and chapter maps) per the Visual Communication Constitution. The text density remains at the original ~200-page level; the additional pages accommodate the visual architecture that transforms the book into a teachable framework.
 
 ---
 
@@ -89,30 +91,35 @@ The manuscript follows a four-movement arc:
 **Movement:** Front Matter
 
 ### Objective
-Provide the reader with a brief orientation to the book's purpose, structure, and the intellectual tradition it belongs to. Establish that this is a framework book, not a CSR manual, not a thesis, not a consultancy report.
+Begin with the reader's problem, not the book's identity. Connect the reader to the central paradox — institutions spend billions yet struggle to earn public trust; communities remain unconvinced despite visible investments; reporting has increased while confidence has declined. Only after the reader recognizes the problem does the framework begin to emerge (by name, not by explanation — creating anticipation).
 
 ### Summary
-The Introduction orients the reader. It states plainly what the book is — a universal framework for institutional legitimacy and the Betterment of Society — and what it is not. It identifies the audience (the institutional legitimacy class: corporate architects of legitimacy, capital stewards, public policy architects, philanthropic principals, and the intellectual arbiters of the field). It explains the book's structure: a diagnostic opening, the framework architecture, the framework in depth, and the future of legitimacy, with two specialized chapters (Empirical Validation and Mathematical Foundations) positioned for researchers. The Introduction closes by inviting the reader to engage the book not as a text to complete but as an architecture to inhabit.
+The Introduction opens with the reader's problem: why do institutions spend billions yet struggle to earn public trust? Why do communities remain unconvinced despite visible investments? Why has reporting increased while confidence often declines? The Introduction establishes that this paradox is not accidental — it is structural. It then introduces the framework by name, without explanation: "Throughout history, enduring institutions have succeeded not because they communicated more, but because five essential conditions remained aligned. This book calls those conditions the Five Pillars Framework." The Introduction identifies the audience (the institutional legitimacy class), explains the book's structure, and closes by inviting the reader to engage the book not as a text to complete but as an architecture to inhabit.
 
 ### Learning Outcomes
 The reader will:
+- Recognize the central paradox that motivates the book
+- Encounter the framework name (creating anticipation, not explanation)
 - Understand what the book is and is not
 - Recognize the audience the book addresses
 - Grasp the structural logic of the chapters
-- Know which chapters are essential and which are specialized
 
 ### Concepts Applied
 - Betterment of Society (referenced)
 - The Betterment Question (referenced)
+- The Five Pillars Framework (named only — not explained)
 
 ### Opening Device
-A direct statement: this book exists because the question it asks has never been properly answered, and the architecture it presents has never been properly built.
+The reader's problem: why do institutions spend billions yet struggle to earn public trust? The opening connects the reader to the paradox before any framework is introduced.
 
 ### Closing Takeaway
 > "Read this book as an architecture, not a manual. The framework is not something to implement; it is something to inhabit."
 
+### Reader Momentum
+The Introduction closes with the tension between the paradox (institutions reporting more, trusted less) and the promise of the framework (five conditions that, when aligned, produce legitimate outcomes). The reader turns to the Prologue to understand where this paradox came from.
+
 ### Diagrams
-None
+- Chapter Map (FPF-CM-00): Book journey overview showing all sections with the Introduction highlighted
 
 ### Illustrations / Cases
 None
@@ -175,28 +182,26 @@ None (this is the opening)
 **Movement:** 1 (Diagnosis)
 
 ### Objective
-Expose the systemic failure of conflating proclamation with proof. Establish the Proclamation Trap as the central institutional pathology of our era and introduce the foundational concepts the rest of the book depends on.
+Expose the systemic failure of conflating proclamation with proof. Establish the Proclamation Trap as the central institutional pathology of our era. Introduce four foundational concepts (not six) to maintain a gradual learning journey. Position the Skeptical Observer Standard as a recurring principle used throughout the book.
 
 ### Summary
-Chapter 1 opens with the paradox of modern accountability: never have institutions reported so much, and never has evidence of actual betterment been so scarce. The chapter introduces the Proclamation Trap — the systemic condition in which institutions claim impact they cannot demonstrate, and the reporting apparatus validates the claim without verifying the substance. The chapter dissects the structural causes: Accountability Asymmetry, the Expenditure Fallacy, the Output Illusion, the Compliance Theater, the Policy-Practice Chasm. Each is named, illustrated through constructed archetypes, and connected to the framework that will emerge in Chapter 3. The chapter closes by establishing the Skeptical Observer Standard as the evidentiary bar the Proclamation Trap exists to evade — and that the Five Pillars Framework exists to meet.
+Chapter 1 opens with the paradox of modern accountability: never have institutions reported so much, and never has evidence of actual betterment been so scarce. The chapter introduces the Proclamation Trap — the systemic condition in which institutions claim impact they cannot demonstrate, and the reporting apparatus validates the claim without verifying the substance. The chapter focuses tightly on the Proclamation Trap as its single central concept. Four structural components are introduced: The Expenditure Fallacy, The Output Illusion, The Compliance Theater, and The Skeptical Observer Standard. Each is named, illustrated through constructed archetypes, and connected to the framework that will emerge in Chapter 3. The concepts of Accountability Asymmetry and the Policy-Practice Chasm are deferred to later chapters (Chapter 4 and Chapter 6 respectively) where they naturally connect to the Accountability and Execution pillars. The chapter closes by establishing the Skeptical Observer Standard as a recurring evaluation standard that will be used throughout the book whenever institutional claims are examined — and as the bar the Proclamation Trap exists to evade and the Five Pillars Framework exists to meet.
 
 ### Learning Outcomes
 The reader will:
 - Recognize the Proclamation Trap as a structural condition, not individual dishonesty
 - Understand why reporting volume has increased while evidence quality has not
-- Identify the six diagnostic pathologies that constitute the Proclamation Trap
-- Grasp the Skeptical Observer Standard as the bar institutional claims must clear
+- Identify the four foundational diagnostic concepts introduced in this chapter
+- Grasp the Skeptical Observer Standard as a recurring principle used throughout the book
 - Be prepared for the deeper diagnosis in Chapter 2
 
 ### Concepts Introduced
 - The Proclamation Trap (central concept)
-- The Skeptical Observer Standard (foundational)
-- The Implementing Agency Principle (foundational)
-- Accountability Asymmetry (diagnostic)
 - The Expenditure Fallacy (diagnostic)
 - The Output Illusion (diagnostic)
 - The Compliance Theater (diagnostic)
-- The Policy-Practice Chasm (diagnostic)
+- The Skeptical Observer Standard (foundational — established as recurring principle)
+- The Implementing Agency Principle (foundational — brief introduction)
 - The Implementing Agency Variable (constructive, brief introduction)
 
 ### Concepts Expanded
@@ -954,31 +959,44 @@ Specialized material for researchers and validators. Positioned after the main n
 
 ## THE EXECUTION SEQUENCE
 
-Upon approval of this Blueprint, manuscript writing begins using a **phased chapter-by-chapter workflow**. The opening chapters establish the tone, pacing, voice, and conceptual rhythm for the entire book; if they need adjustment after 150 pages have been written, the revision effort becomes substantial. The phased approach prevents this.
+Upon approval of this Blueprint, manuscript writing begins using a **phased chapter-by-chapter workflow** with a **Draft → Revised Draft → Frozen** approval cycle for each stage. The opening chapters establish the tone, pacing, voice, and conceptual rhythm for the entire book; if they need adjustment after 150 pages have been written, the revision effort becomes substantial. The phased approach prevents this.
 
 ### Phased Writing Workflow
 
-**Stage 2:** Write the Introduction + Prologue + Chapter 1 only. Review. Freeze.
+**Stage 2:** Write the Introduction + Prologue + Chapter 1 (Draft). Review. Revise (Revised Draft). Freeze.
 
-**Stage 3:** Write Chapters 2–3. Freeze.
+**Stage 3:** Write Chapters 2–3 (Draft). Review. Revise (Revised Draft). Freeze.
 
-**Stage 4:** Write Chapters 4–5. Freeze.
+**Stage 4:** Write Chapters 4–5 (Draft). Review. Revise (Revised Draft). Freeze.
 
-**Stage 5:** Write Chapters 6–7. Freeze.
+**Stage 5:** Write Chapters 6–7 (Draft). Review. Revise (Revised Draft). Freeze.
 
-**Stage 6:** Write the Empirical Validation chapter + Mathematical Foundations chapter. Freeze.
+**Stage 6:** Write the Empirical Validation chapter + Mathematical Foundations chapter (Draft). Review. Revise (Revised Draft). Freeze.
 
 **Stage 7:** Write the Epilogue + Glossary. Compile the complete manuscript.
 
+### The Draft → Revised Draft → Frozen Cycle
+
+Each stage follows a three-step approval cycle:
+
+1. **Draft** — The initial writing, conforming to all governance documents. Submitted for review.
+2. **Revised Draft** — One intentional revision pass based on review feedback. This allows refinement of voice, pacing, concept introduction, and visual placement before locking.
+3. **Frozen** — The stage is locked. No further rewriting of these sections. The manuscript moves to the next stage.
+
+This cycle ensures that each stage receives one deliberate refinement before commitment, preventing both premature freezing and endless revision.
+
 ### Execution Discipline
 - Each chapter is written to conform to the Blueprint exactly
-- No approved chapter is rewritten (the Bible and Blueprint are frozen)
+- No frozen chapter is rewritten (the Bible and Blueprint are frozen)
 - No concept is introduced before its designated location
 - No terminology departs from the Terminology Glossary
 - No relationship departs from the Concept Dependency Map
 - The Review Checklist (from the Bible) is applied to every chapter
 - The Publication Quality Rule (five criteria) is applied to every chapter before it is frozen
 - The Pillar Strengthening Rule (Rule 13) is applied to every chapter
+- The Reader Momentum Rule (Rule 14) is applied to every chapter
+- The Visual Communication Constitution is applied to every chapter — every chapter is evaluated for visualization opportunities before it is considered complete
+- Every figure has a Visual Specification and a Figure Register entry
 - The Prohibited Actions (from the Master Prompt) are enforced without exception
 - No chapter proceeds to the next stage until all quality criteria are met
 
