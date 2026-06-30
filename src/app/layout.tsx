@@ -1,37 +1,41 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
+import { SiteHeader } from "@/components/site-header";
+import { SiteFooter } from "@/components/site-footer";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const inter = Inter({
+  variable: "--font-sans",
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const playfair = Playfair_Display({
+  variable: "--font-serif",
   subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
-  icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
-  },
+  title: "The Five Pillars Framework — SaaS Platform for Institutional Legitimacy",
+  description:
+    "The first SaaS platform that helps institutions demonstrate — with evidence — that they produce the Betterment of Society. Assess, verify, and track your Five Pillars Coherence.",
+  keywords: [
+    "Five Pillars Framework",
+    "CSR",
+    "ESG",
+    "institutional legitimacy",
+    "Betterment of Society",
+    "CEI",
+    "Composite Effectiveness Index",
+    "Amir Hashmi",
+  ],
+  authors: [{ name: "Dr. Sayed Amir Mustafa Hashmi" }],
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: "The Five Pillars Framework",
+    description:
+      "Stop Proclaiming. Start Proving. The SaaS platform for institutional legitimacy and the Betterment of Society.",
+    siteName: "The Five Pillars Framework",
     type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
   },
 };
 
@@ -43,9 +47,11 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground`}
+        className={`${inter.variable} ${playfair.variable} font-sans antialiased bg-background text-foreground min-h-screen flex flex-col`}
       >
-        {children}
+        <SiteHeader />
+        <main className="flex-1">{children}</main>
+        <SiteFooter />
         <Toaster />
       </body>
     </html>
