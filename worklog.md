@@ -1,38 +1,45 @@
 ---
-Task ID: Phase-0
+Task ID: Phase-0-plus-1
 Agent: Main Agent (Z.ai Code)
-Task: Produce the Framework Bible (Phase 0) — the permanent governing document for The Five Pillars Framework book project by Dr. Sayed Amir Mustafa Hashmi.
+Task: Produce the complete pre-manuscript architecture for The Five Pillars Framework book: Framework Bible (Phase 0) + Concept Dependency Map + Terminology Glossary + Book Blueprint (Phase 1).
 
 Work Log:
-- Received updated Master Prompt (v6) with canonical A-E-I-O-M sequence: Accountability, Execution, Initiative, Outcome, Meaning
-- Registered key constraints: ~200 pages, "Betterment of Society" terminology lock, isolated Validation and Mathematics chapters, universality principle, implementing agency neutrality
-- Created project structure at /home/z/my-project/book/
-- Wrote complete Framework Bible containing all 17 required components:
-  1. Doctrine Constitution (foundational premise, guiding question, theory of change, legitimacy principle, implementing agency principle, universality principle, future-proofing principle)
-  2. Canonical Definitions (all 5 pillars deeply defined with failure modes and verification demands)
-  3. Terminology Dictionary (25+ original terms: Proclamation Trap, Legitimacy Gap, Verification Debt, Accountability Asymmetry, Expenditure Fallacy, Compliance Theater, Transparency Trap, Output Illusion, Imposed Imperative, Policy-Practice Chasm, Beneficiary Inversion, Communication Usability, Initiative Authenticity, Outcome Verifiability, Meaning Correspondence, Trust Capital, Trust Layer, Trust Layer Maturity, Execution Architecture, Implementing Agency Variable, Pillar Coherence, Pillar Deficiency, Skeptical Observer Standard, Betterment Evidence, Legitimacy Migration, Proclamation-Proof Gradient, Participatory Engagement, plus mathematical terms CEI, SAI, WDC, L, Betterment Index, T, Alignment Equation, plus prohibited terms list)
-  4. Framework Integrity Rules (12 non-negotiable rules)
-  5. Writing Constitution (voice, register, structural rules, book-before-framework rule, genre prohibition)
-  6. Book Philosophy (ambition, function, length discipline, structure, audience)
-  7. Narrative Philosophy (narrative arc, story and argument, universalization discipline, no-recap rule)
-  8. Example Philosophy (constructed case method, 6 case archetypes, composite discipline)
-  9. Diagram Philosophy (when to diagram, standards, placeholder protocol, visual integrity)
-  10. Citation Philosophy (anti-literature-review principle, reference style, predecessor principle, critical engagement)
-  11. Visual Language Standards (typography, color and form, consistency, placeholder page)
-  12. Tone Guide (authoritative register, what to avoid, declarative discipline, personal voice, sentence discipline)
-  13. Chapter Design Rules (structure template, length, independence, opening/closing discipline, specialized chapters)
-  14. Concept Introduction Rules (explain-before-name, one-concept, earn-your-term, definition-once, example-before-theory)
-  15. Review Checklist (doctrine, genre, structural, voice, legacy, terminology integrity)
-  16. Quality Standards (world-class benchmark, final quality gate, closing mandate, honest assessment)
-  17. Future Expansion Principles (IP architecture, expansion discipline, Bible amendment process, IP protection)
-- Bible saved to /home/z/my-project/book/00-framework-bible.md (8,606 words, ~25-30 pages at book format)
-- Bible status: DRAFT — Pending user approval
+- Received v1.0 (Publishing Grade) Master Execution Prompt with two additional mandated documents: Concept Dependency Map and Terminology Glossary
+- Produced Framework Bible (Phase 0): 8,606 words, all 17 required components — COMPLETE
+- Produced Concept Dependency Map (Pre-Blueprint Document A): 5,019 words
+  * Four-layer architecture (Foundational, Diagnostic, Architectural, Operational)
+  * All concepts mapped with dependencies, introductions, expansions, applications
+  * Three critical paths identified (Legitimacy Path, Architecture Path, Betterment Path)
+  * Twelve prohibited relationships enumerated
+  * Seven concept clusters defined for manuscript balance
+  * Visual diagram placeholder with image generation prompt
+- Produced Terminology Glossary (Pre-Blueprint Document B): 5,760 words
+  * Seven categories: Foundational, Pillars, Diagnostic, Constructive, Mathematical, Methodological, Prohibited
+  * Every term with authoritative definition, first introduction, expansion, application, related terms
+  * Prohibited terms table with approved alternatives
+  * Six glossary discipline rules governing terminological consistency
+- Produced Book Blueprint (Phase 1): 9,235 words
+  * Complete 11-section Table of Contents (Prologue + 7 main chapters + Validation + Mathematics + Epilogue + Glossary)
+  * ~201 pages total (within ~200 target)
+  * Four-movement narrative arc (Diagnosis, Discovery, Doctrine, Future) + 2 parallel tracks
+  * Chapter-by-chapter: objectives, summaries, learning outcomes, concepts introduced/expanded/applied, opening devices, closing takeaways, diagrams, cases, dependencies
+  * 23 diagrams planned with placeholder protocol
+  * 6 institutional archetypes with appearance/deepening/focus schedule
+  * Complete concept flow matrix (40+ concepts × 11 sections)
+  * Chapter dependency map
+  * Execution sequence specified
 
 Stage Summary:
-- Phase 0 Framework Bible is complete and awaiting approval
-- The Bible establishes the permanent constitution: canonical A-E-I-O-M definitions, 25+ original doctrinal terms, 12 integrity rules, and all governance standards
-- Key architectural decisions locked: 7 main chapters + Validation Chapter + Mathematics Chapter + Prologue + Epilogue, targeting ~200 pages
-- The Theory of Change is articulated: migration from expenditure-based legitimacy to evidence-based legitimacy
-- 6 institutional case archetypes defined: Multinational Extractive Enterprise, Sovereign Development Fund, Global Health Foundation, Transitional Welfare Authority, Environmental Restoration Consortium, Educational Transformation Initiative
-- Mathematical architecture sketched: CEI = [β·WDC + (1-β)·SAI] × L^γ, plus Betterment Index, Trust Layer Maturity Score, Alignment Equation
-- Next step: User reviews and approves the Bible, then Phase 1 (Book Blueprint) begins
+- Complete pre-manuscript architecture is now in place: 4 documents, ~28,620 words total
+- The anti-drift infrastructure is comprehensive: Bible (doctrine) + Glossary (terminology) + Dependency Map (concept relationships) + Blueprint (manuscript architecture)
+- All documents conform to the v1.0 Publishing Grade Master Execution Prompt
+- Canonical A-E-I-O-M sequence (Accountability, Execution, Initiative, Outcome, Meaning) locked across all documents
+- "Betterment of Society" terminology locked, "societal betterment" prohibited
+- Validation and Mathematics chapters isolated per Source Isolation and Mathematical Consolidation Rules
+- 6 institutional archetypes defined, all composite, all geographically universalized
+- Next step: User reviews and approves the three new documents (Dependency Map, Glossary, Blueprint), then Phase 2 (Manuscript) begins
+- Documents saved at:
+  * /home/z/my-project/book/00-framework-bible.md
+  * /home/z/my-project/book/01-concept-dependency-map.md
+  * /home/z/my-project/book/02-terminology-glossary.md
+  * /home/z/my-project/book/03-book-blueprint.md
