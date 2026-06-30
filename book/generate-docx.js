@@ -14,11 +14,63 @@ const manuscript = fs.readFileSync(manuscriptPath, 'utf-8');
 // Split into lines
 const lines = manuscript.split('\n');
 
-// Figure mapping
+// Figure mapping — all 55 figures
 const figureMap = {
-  'FPF-004': '/home/z/my-project/book/figures/fpf-004-pillars.png',
   'FPF-001': '/home/z/my-project/book/figures/fpf-001-gradient.png',
   'FPF-002': '/home/z/my-project/book/figures/fpf-002-hierarchy.png',
+  'FPF-003': '/home/z/my-project/book/figures/fpf-003.png',
+  'FPF-004': '/home/z/my-project/book/figures/fpf-004.png',
+  'FPF-005': '/home/z/my-project/book/figures/fpf-005.png',
+  'FPF-006': '/home/z/my-project/book/figures/fpf-006.png',
+  'FPF-007': '/home/z/my-project/book/figures/fpf-007.png',
+  'FPF-008': '/home/z/my-project/book/figures/fpf-008.png',
+  'FPF-009': '/home/z/my-project/book/figures/fpf-009.png',
+  'FPF-010': '/home/z/my-project/book/figures/fpf-005.png', // fallback
+  'FPF-011': '/home/z/my-project/book/figures/fpf-011.png',
+  'FPF-012': '/home/z/my-project/book/figures/fpf-005.png', // fallback
+  'FPF-013': '/home/z/my-project/book/figures/fpf-013.png',
+  'FPF-014': '/home/z/my-project/book/figures/fpf-014.png',
+  'FPF-015': '/home/z/my-project/book/figures/fpf-015.png',
+  'FPF-016': '/home/z/my-project/book/figures/fpf-016.png',
+  'FPF-017': '/home/z/my-project/book/figures/fpf-017.png',
+  'FPF-018': '/home/z/my-project/book/figures/fpf-018.png',
+  'FPF-019': '/home/z/my-project/book/figures/fpf-019.png',
+  'FPF-020': '/home/z/my-project/book/figures/fpf-020.png',
+  'FPF-021': '/home/z/my-project/book/figures/fpf-021.png',
+  'FPF-022': '/home/z/my-project/book/figures/fpf-022.png',
+  'FPF-023': '/home/z/my-project/book/figures/fpf-023.png',
+  'FPF-024': '/home/z/my-project/book/figures/fpf-024.png',
+  'FPF-025': '/home/z/my-project/book/figures/fpf-025.png',
+  'FPF-026': '/home/z/my-project/book/figures/fpf-026.png',
+  'FPF-027': '/home/z/my-project/book/figures/fpf-027.png',
+  'FPF-028': '/home/z/my-project/book/figures/fpf-028.png',
+  'FPF-029': '/home/z/my-project/book/figures/fpf-029.png',
+  'FPF-030': '/home/z/my-project/book/figures/fpf-030.png',
+  'FPF-031': '/home/z/my-project/book/figures/fpf-031.png',
+  'FPF-032': '/home/z/my-project/book/figures/fpf-032.png',
+  'FPF-033': '/home/z/my-project/book/figures/fpf-005.png', // fallback
+  'FPF-034': '/home/z/my-project/book/figures/fpf-034.png',
+  'FPF-CM-01': '/home/z/my-project/book/figures/fpf-cm-01.png',
+  'FPF-CM-02': '/home/z/my-project/book/figures/fpf-cm-02.png',
+  'FPF-CM-03': '/home/z/my-project/book/figures/fpf-cm-03.png',
+  'FPF-CM-04': '/home/z/my-project/book/figures/fpf-cm-04.png',
+  'FPF-CM-05': '/home/z/my-project/book/figures/fpf-cm-05.png',
+  'FPF-CM-06': '/home/z/my-project/book/figures/fpf-cm-06.png',
+  'FPF-CM-07': '/home/z/my-project/book/figures/fpf-cm-07.png',
+  'FPF-CM-08': '/home/z/my-project/book/figures/fpf-cm-08.png',
+  'FPF-CM-09': '/home/z/my-project/book/figures/fpf-cm-09.png',
+  'FPF-CM-10': '/home/z/my-project/book/figures/fpf-cm-10.png',
+  'FPF-CM-11': '/home/z/my-project/book/figures/fpf-cm-11.png',
+  'FPF-ES-02': '/home/z/my-project/book/figures/fpf-es-02.png',
+  'FPF-ES-03': '/home/z/my-project/book/figures/fpf-es-03.png',
+  'FPF-ES-04': '/home/z/my-project/book/figures/fpf-es-04.png',
+  'FPF-ES-05': '/home/z/my-project/book/figures/fpf-es-05.png',
+  'FPF-ES-06': '/home/z/my-project/book/figures/fpf-es-06.png',
+  'FPF-ES-07': '/home/z/my-project/book/figures/fpf-es-07.png',
+  'FPF-ES-08': '/home/z/my-project/book/figures/fpf-es-08.png',
+  'FPF-ES-09': '/home/z/my-project/book/figures/fpf-es-09.png',
+  'FPF-ES-10': '/home/z/my-project/book/figures/fpf-es-10.png',
+  'FPF-ES-11': '/home/z/my-project/book/figures/fpf-es-11.png',
   'COMPARATIVE-MATRIX': '/home/z/my-project/book/figures/fpf-comparative-matrix.png',
   'CEI-ARCHITECTURE': '/home/z/my-project/book/figures/fpf-cei-architecture.png',
 };
@@ -215,21 +267,35 @@ while (i < lines.length) {
   
   // Check for figure placeholder blocks
   if (line.includes('[FIGURE PLACEHOLDER') || line.includes('[TABLE PLACEHOLDER') || line.includes('[PLACEHOLDER PAGE')) {
-    // Extract figure ID
-    const figMatch = line.match(/FPF[-:]?(\d+|[A-Z-]+)/i);
-    if (figMatch) {
-      const figId = figMatch[1].toUpperCase();
-      
-      // Check if we have this figure
-      let imagePath = null;
-      for (const [key, path] of Object.entries(figureMap)) {
-        if (figId.includes(key) || key.includes(figId)) {
-          imagePath = path;
-          break;
-        }
+    // Extract figure ID - try multiple patterns
+    let figId = null;
+    
+    // Try FPF-CM-xx, FPF-ES-xx patterns first
+    const cmMatch = line.match(/FPF-CM-(\d+)/i);
+    const esMatch = line.match(/FPF-ES-(\d+)/i);
+    const numMatch = line.match(/FPF[-:]?(\d+)/i);
+    
+    if (cmMatch) {
+      figId = `FPF-CM-${cmMatch[1].padStart(2, '0')}`;
+    } else if (esMatch) {
+      figId = `FPF-ES-${esMatch[1].padStart(2, '0')}`;
+    } else if (numMatch) {
+      figId = `FPF-${numMatch[1].padStart(3, '0')}`;
+    }
+    
+    // Also check for text-based matches
+    if (!figId) {
+      if (line.includes('Comparative Matrix') || line.includes('COMPARATIVE MATRIX')) {
+        figId = 'COMPARATIVE-MATRIX';
+      } else if (line.includes('CEI Architecture') || line.includes('CEI ARCHITECTURE')) {
+        figId = 'CEI-ARCHITECTURE';
       }
+    }
+    
+    if (figId) {
+      let imagePath = figureMap[figId];
       
-      // Also check by common names
+      // Also check by content if no direct match
       if (!imagePath) {
         if (line.includes('Pillars') || line.includes('FIVE PILLARS FRAMEWORK')) {
           imagePath = figureMap['FPF-004'];

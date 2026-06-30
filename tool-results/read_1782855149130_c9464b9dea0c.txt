@@ -1,0 +1,202 @@
+   660→> **One Sentence Summary:** The Six Dimensions of Framework Evaluation — Compliance, Governance, Stakeholders, Reporting, Impact, Betterment Verification — expose the gap in the existing landscape: the first five are addressed by existing frameworks; the sixth is not.
+   661→
+   662→---
+   663→
+   664→### [FIGURE PLACEHOLDER: FPF-009 — The Six Dimensions of Framework Evaluation]
+   665→
+   666→**Visual Specification:**
+   667→- **Figure ID:** FPF-009
+   668→- **Title:** The Six Dimensions of Framework Evaluation
+   669→- **Type:** Framework Diagram (six vertical bars)
+   670→- **Chapter:** 3
+   671→- **Purpose:** To introduce the six dimensions and highlight Betterment Verification as the missing dimension.
+   672→- **Layout Description:** Six vertical bars of equal height, arranged left to right. Left to right labels: "Compliance," "Governance," "Stakeholders," "Reporting," "Impact," "Betterment Verification." First five bars are light gray fill. Sixth bar (Betterment Verification) is white with a dashed border, indicating absence in existing frameworks. Above the sixth bar, an annotation: "The missing dimension." Below the bars, an annotation spanning all six: "What a complete framework would address." Black text. Grayscale fills. No color.
+   673→- **Caption:** The Six Dimensions of Framework Evaluation. Existing frameworks address the first five dimensions to varying degrees. The sixth dimension — Betterment Verification — is the dimension none of them addresses. The Five Pillars Framework exists to fill this dimension.
+   674→- **Placement:** After the Six Dimensions section.
+   675→- **Cross-References:** FPF-010
+   676→
+   677→---
+   678→
+   679→### A Structured Review of the Major Frameworks
+   680→
+   681→What follows is a structured review of the major CSR, ESG, and governance frameworks. For each framework, the review identifies the question the framework was designed to answer, the framework's strength, the framework's limitation, and the framework's relationship to Betterment Verification. The review is brief, direct, and load-bearing — it serves the doctrine's construction, not the field's conversation.
+   682→
+   683→**Carroll's Pyramid** answers the question of what organizations should be responsible for. Its strength is the layered hierarchy of economic, legal, ethical, and philanthropic responsibilities — a map that has organized thinking about corporate responsibility for decades. Its limitation is that the hierarchy describes responsibility, not outcome. An organization can satisfy every layer of the pyramid and still be unable to demonstrate that its ethical conduct and philanthropic activity produced betterment. The pyramid cannot distinguish philanthropy from verifiable impact. It does not address Betterment Verification.
+   684→
+   685→**The Triple Bottom Line** answers the question of how organizations should account for performance across economic, social, and environmental dimensions. Its strength is the expansion of the accounting frame beyond financial performance. Its limitation is that the framework is an accounting approach, not a verification approach. It tells the organization what to count. It does not establish whether what is counted constitutes betterment. The Triple Bottom Line produces three columns of numbers. It does not produce evidence that the numbers correspond to change in the condition of communities or systems. It does not address Betterment Verification.
+   686→
+   687→**Stakeholder Theory** answers the question of whose interests organizations should consider. Its strength is the identification of stakeholders as legitimate constituencies whose interests the organization must weigh. Its limitation is that consideration is not outcome. An organization can consult stakeholders comprehensively, respond to stakeholder concerns, and report stakeholder engagement diligently — and still be unable to demonstrate that the engagement produced betterment for those stakeholders. Stakeholder Theory identifies the audience. It does not provide the verification architecture that would establish whether the audience's condition improved. It does not address Betterment Verification.
+   688→
+   689→**Creating Shared Value** answers the question of how organizations can align social and economic objectives. Its strength is the recognition that social and economic value can be jointly produced rather than traded off. Its limitation is that the framework identifies opportunities for aligned value without verifying that the value was actually created. The framework assumes that aligned opportunities produce aligned outcomes. They sometimes do not. Creating Shared Value is, in the framework's terminology, an adjacent framework — useful for identifying opportunities, not for verifying outcomes. It does not address Betterment Verification.
+   690→
+   691→**ESG** — Environmental, Social, and Governance — answers the question of how investors should evaluate non-financial performance. Its strength is the integration of non-financial factors into investment decision-making. Its limitation is that ESG is investor-oriented, not outcome-oriented. ESG ratings evaluate organizational policies, processes, and disclosures. They do not verify that the policies, processes, and disclosures produced betterment. A high ESG score reflects strong ESG performance as evaluated by the rating methodology. It does not reflect verified betterment in the condition of communities or systems. ESG does not address Betterment Verification.
+   692→
+   693→**GRI** — the Global Reporting Initiative — answers the question of how organizations should report on sustainability performance. Its strength is the standardization of sustainability reporting across organizations and sectors. Its limitation is that reporting standardization is not outcome verification. GRI provides indicators, disclosures, and assurance standards. It does not require that the disclosed indicators be linked to verified outcomes. An organization can produce a fully GRI-compliant report and still be unable to demonstrate that the reported activities produced betterment. GRI standardizes reporting. It does not verify betterment. It does not address Betterment Verification.
+   694→
+   695→**ISO 26000** answers the question of how organizations should operationalize social responsibility. Its strength is the comprehensive guidance on integrating social responsibility into organizational practice. Its limitation is that operational guidance is not verification architecture. ISO 26000 helps organizations implement social responsibility practices. It does not verify that the practices produced betterment. An organization can fully implement ISO 26000 guidance and still be unable to demonstrate that its implementation produced outcome. ISO 26000 operationalizes responsibility. It does not verify betterment. It does not address Betterment Verification.
+   696→
+   697→**The SDGs** — the Sustainable Development Goals — answer the question of how organizations should align with global goals. Their strength is the universal framework for collective action on shared global challenges. Their limitation is that alignment with goals is not contribution to outcomes. Organizations report their alignment with specific SDGs. They rarely establish, with evidence, that their alignment produced measurable contribution to those goals. The SDGs provide the destination. They do not provide the verification architecture that would establish whether the destination is being reached. The SDGs align organizations with goals. They do not verify betterment. They do not address Betterment Verification.
+   698→
+   699→**BRSR** — the Business Responsibility and Sustainability Report — answers the question of how regulators should mandate sustainability disclosure. Its strength is the regulatory rigor of mandatory disclosure, applied to a defined segment of the corporate sector. Its limitation is the same as GRI's, intensified by mandate. BRSR requires organizations to disclose. It does not require organizations to verify. A BRSR-compliant report can be comprehensive, professional, and externally assured — and still be unable to demonstrate that the disclosed activities produced betterment. BRSR mandates reporting. It does not mandate betterment verification. It does not address Betterment Verification.
+   700→
+   701→The pattern is consistent across all nine frameworks. Each was designed to answer a specific question. Each answers its question well. None addresses Betterment Verification. The dimension is empty in the existing landscape.
+   702→
+   703→> **Stop & Think:** The reader who has worked within any of these frameworks — GRI reporting, ESG evaluation, SDG alignment, Carroll's pyramid mapping — will recognize the pattern from inside. The framework provided structure, language, and discipline. It did not provide the answer to the question the reader's stakeholders were ultimately asking: did it work? That question, unanswered by the framework, is the question this book exists to address.
+   704→
+   705→---
+   706→
+   707→### [FIGURE PLACEHOLDER: FPF-010 — The Comparative Matrix]
+   708→
+   709→**Visual Specification:**
+   710→- **Figure ID:** FPF-010
+   711→- **Title:** The Comparative Matrix
+   712→- **Type:** Comparison Table (large grid)
+   713→- **Chapter:** 3
+   714→- **Purpose:** To evaluate all major frameworks against the six dimensions and reveal the empty sixth column.
+   715→- **Layout Description:** A large grid. Left column lists the nine frameworks (Carroll's Pyramid, Triple Bottom Line, Stakeholder Theory, Creating Shared Value, ESG, GRI, ISO 26000, SDGs, BRSR) plus the Five Pillars Framework at the bottom. Six columns across the top: Compliance, Governance, Stakeholders, Reporting, Impact, Betterment Verification. Cells contain symbols: filled circle (addresses dimension), half-filled circle (partially addresses), empty circle (does not address). For the first nine frameworks, the Betterment Verification column is uniformly empty circle. For the Five Pillars Framework row, all six columns are filled circles, with Betterment Verification marked in bold. Black text. Grayscale symbols. No color.
+   716→- **Caption:** The Comparative Matrix. The first nine frameworks address the first five dimensions to varying degrees. None addresses Betterment Verification. The Five Pillars Framework addresses all six dimensions, with Betterment Verification as its distinctive contribution. The framework completes the landscape; it does not replace it.
+   717→- **Placement:** After the structured review.
+   718→- **Cross-References:** FPF-009, FPF-011
+   719→
+   720→---
+   721→
+   722→### The Compliance-Betterment Distinction
+   723→
+   724→The comparative review exposes a distinction that is the central conceptual move of this chapter. I call it the Compliance-Betterment Distinction.
+   725→
+   726→Compliance and betterment are not the same thing. Compliance is the satisfaction of rules, requirements, and standards. Betterment is the verified improvement in the condition of communities or systems. Compliance is what an institution does internally to meet external expectations. Betterment is what changes externally because of what the institution did. The two are related — compliance can support betterment, and betterment can produce compliance — but they are not equivalent. An institution can be fully compliant and produce no betterment. An institution can produce betterment without being fully compliant with the rules of any specific framework.
+   727→
+   728→The Compliance-Betterment Distinction matters because most existing frameworks collapse the two. They treat compliance as a proxy for betterment. They assume that an organization that reports against indicators, satisfies audit requirements, and meets disclosure mandates has thereby demonstrated betterment. This assumption is the structural error that produces the Compliance Theater, the Transparency Trap, and the Legitimacy Gap. Compliance is not betterment. Reporting is not verification. Disclosure is not evidence.
+   729→
+   730→The distinction is not an attack on compliance. Compliance is necessary. The frameworks that produce compliance — GRI, BRSR, ESG, ISO 26000, the SDGs — perform a useful function. They establish floors. They standardize disclosure. They create comparability. They enable regulators and investors to assess organizational performance against shared expectations. The world without compliance frameworks would be worse than the world with them. The frameworks are necessary. They are insufficient. They produce compliance. They do not produce betterment verification. The Compliance-Betterment Distinction is the recognition of what they do and what they do not do.
+   731→
+   732→The Five Pillars Framework is positioned to address what the existing frameworks do not do. It does not replace them. It does not duplicate their function. It does not compete with their contribution. It provides the dimension they collectively lack — Betterment Verification — and integrates that dimension into a complete architecture for institutional legitimacy. The existing frameworks and the Five Pillars Framework are complementary, not competitive. The meta-framework positioning this implies will be developed in the next section.
+   733→
+   734→> **Key Insight:** Compliance is what an institution does internally to meet external expectations. Betterment is what changes externally because of what the institution did. Existing frameworks produce compliance. The Five Pillars Framework produces betterment verification. The two are complementary, not competitive.
+   735→
+   736→---
+   737→
+   738→### The Meta-Framework Positioning
+   739→
+   740→The Five Pillars Framework is positioned as a meta-framework, not a replacement for existing CSR, ESG, or governance frameworks. This positioning is academically stronger, less confrontational, and more defensible than positioning the framework as a replacement.
+   741→
+   742→A replacement framework claims to do what existing frameworks do, but better. A meta-framework claims to do what existing frameworks do not do, and to integrate with what they do. The first positioning is competitive. The second is complementary. The first requires the existing frameworks to be wrong. The second requires them to be incomplete. The first invites contestation. The second invites completion.
+   743→
+   744→The Five Pillars Framework asks a question the existing frameworks do not ask. The existing frameworks ask what organizations should be responsible for, how they should report, how they should engage stakeholders, how they should align with goals. The Five Pillars Framework asks whether the organization can demonstrate that its interventions produced Betterment of Society. The question is different. The answer requires different architecture. The architecture is what this book presents.
+   745→
+   746→The meta-framework positioning has three implications.
+   747→
+   748→The first implication is that adopting the Five Pillars Framework does not require abandoning existing frameworks. An organization can continue to report against GRI, to align with the SDGs, to satisfy BRSR requirements, to maintain ESG ratings. The Five Pillars Framework does not compete with these activities. It completes them. It adds the dimension they lack — Betterment Verification — to the dimensions they already address.
+   749→
+   750→The second implication is that the Five Pillars Framework cannot be evaluated by the standards of the existing frameworks. The existing frameworks are evaluated by their ability to produce compliance, reporting, and disclosure. The Five Pillars Framework is evaluated by its ability to produce verifiable betterment. The two evaluations are not interchangeable. An organization can score well on GRI and poorly on Betterment Verification, and vice versa. The meta-framework positioning requires the framework to be evaluated on its own terms, not on the terms of the frameworks it complements.
+   751→
+   752→The third implication is that the Five Pillars Framework, as a meta-framework, applies across the entire landscape of institutional responsibility — corporate, governmental, philanthropic, developmental, educational, healthcare. It is not a CSR framework. It is not an ESG framework. It is not a sustainability framework. It is a meta-framework for institutional legitimacy, of which CSR, ESG, and sustainability are specific applications. The framework's universality is the source of its power. It applies wherever institutions claim to produce betterment — which is, in the twenty-first century, virtually everywhere.
+   753→
+   754→> **Mini Case:** A multinational corporation already reports against GRI, aligns its programs with the SDGs, satisfies ESG rating requirements, and complies with regulatory disclosure mandates. It adopts the Five Pillars Framework not to replace these activities but to add the dimension they collectively lack — Betterment Verification. Its existing reporting remains. Its verification architecture is built alongside. The meta-framework does not displace the existing frameworks. It completes them.
+   755→
+   756→---
+   757→
+   758→### [FIGURE PLACEHOLDER: FPF-011 — The Meta-Framework Positioning]
+   759→
+   760→**Visual Specification:**
+   761→- **Figure ID:** FPF-011
+   762→- **Title:** The Meta-Framework Positioning
+   763→- **Type:** Framework Diagram (concentric architecture)
+   764→- **Chapter:** 3
+   765→- **Purpose:** To show the Five Pillars Framework as a meta-framework that encompasses and completes existing frameworks, not replaces them.
+   766→- **Layout Description:** A diagram with two layers. The outer layer is a large circle labeled "Existing Frameworks" with the names of the nine frameworks arranged around its perimeter. The inner layer is a smaller circle labeled "The Five Pillars Framework — Betterment Verification." A vertical arrow between the two layers, labeled "Completes, does not replace." Below the diagram, the text: "Existing frameworks are necessary but insufficient. The Five Pillars Framework provides the dimension they collectively lack." Black text. Grayscale fills. No color.
+   767→- **Caption:** The Meta-Framework Positioning. The Five Pillars Framework does not replace existing frameworks. It completes them by providing the dimension they collectively lack — Betterment Verification. The positioning is "necessary but insufficient": existing frameworks are necessary for their purposes, insufficient for demonstrating betterment.
+   768→- **Placement:** After the Meta-Framework Positioning section.
+   769→- **Cross-References:** FPF-009, FPF-010
+   770→
+   771→---
+   772→
+   773→### Three Illustrative Evaluations
+   774→
+   775→The meta-framework positioning can be sharpened by applying it to specific frameworks. Consider three illustrative evaluations, each applying a different lens from this book's diagnostic vocabulary.
+   776→
+   777→**Carroll's Pyramid evaluated through the Skeptical Observer Standard.** Carroll's Pyramid describes four layers of responsibility: economic, legal, ethical, philanthropic. A Carroll-compliant organization is economically productive, legally compliant, ethically engaged, and philanthropically generous. The Skeptical Observer asks: Can the organization demonstrate, with evidence, that its ethical engagement and philanthropic activity produced measurable betterment? The honest answer, in most cases, is no. The organization can demonstrate economic productivity through financial statements. It can demonstrate legal compliance through regulatory filings. It can demonstrate ethical engagement through codes of conduct and ethics training records. It can demonstrate philanthropic activity through disbursement records. None of this constitutes evidence of betterment. The pyramid describes what the organization should do. It does not provide the architecture for proving that what was done produced change. The Skeptical Observer, evaluating the pyramid-compliant organization, finds the Betterment Question unanswered.
+   778→
+   779→**GRI evaluated through the Betterment Question.** GRI provides a comprehensive framework for sustainability reporting. A GRI-compliant report discloses organizational performance across hundreds of indicators, organized by topic and material. The Betterment Question asks: Can the organization demonstrate, with evidence that would convince a skeptical observer, that the disclosed activities produced measurable betterment in the condition of the communities or systems they affect? The honest answer, in most cases, is no. The GRI report discloses what the organization did. It does not establish what changed because of what the organization did. The indicators are activity and output indicators — emissions reduced, programs initiated, partnerships formed, training delivered. They are not outcome indicators — they do not establish that the activities produced change in the condition of the affected communities or systems. The GRI-compliant report answers the question "What did the organization do?" It does not answer the Betterment Question.
+   780→
+   781→**BRSR evaluated through the Compliance-Betterment Distinction.** BRSR is a mandatory sustainability disclosure regime. A BRSR-compliant organization discloses a defined set of indicators, in a prescribed format, with external assurance. The Compliance-Betterment Distinction asks: Does the compliance architecture produce betterment verification, or does it produce compliance reporting? The honest answer, in most cases, is the latter. BRSR mandates disclosure. It does not mandate verification. An organization can be fully BRSR-compliant and still be unable to demonstrate that its disclosed activities produced betterment. The compliance architecture produces compliance reporting — comprehensive, standardized, assured. It does not produce betterment verification. The Compliance-Betterment Distinction, applied to BRSR, exposes the structural limit of mandatory disclosure: disclosure is necessary but insufficient for betterment verification.
+   782→
+   783→These three evaluations illustrate the meta-framework positioning in practice. The existing frameworks are not wrong. They are not failing. They are answering different questions. The Skeptical Observer Standard, the Betterment Question, and the Compliance-Betterment Distinction are the diagnostic lenses that reveal what the existing frameworks do not do — and what the Five Pillars Framework exists to do.
+   784→
+   785→> **Visual Recap:** The Comparative Matrix (FPF-010) captures the result of these evaluations: every existing framework addresses the first five dimensions to varying degrees, and none addresses the sixth. The Five Pillars Framework addresses all six, with the sixth as its distinctive contribution.
+   786→
+   787→---
+   788→
+   789→### Why the Gap Persists
+   790→
+   791→The gap — the empty sixth column of the Comparative Matrix — has persisted for two decades. The reasons are structural, not accidental.
+   792→
+   793→The first reason is that Betterment Verification is hard. Producing evidence that an institution's intervention produced measurable change in the condition of a community or system is methodologically demanding. It requires baseline data, comparison groups, attribution analysis, outcome measurement, and independent verification. It is much harder than producing compliance reporting. Institutions have gravitated toward frameworks that are operationally feasible. Betterment Verification has been treated as aspirational rather than architectural — something organizations might do if they had unlimited resources, not something they must do as a condition of legitimacy.
+   794→
+   795→The second reason is that the existing frameworks were built by different communities for different purposes. Carroll's Pyramid was built by management scholars to organize thinking about responsibility. Stakeholder Theory was built by strategy scholars to identify organizational constituencies. GRI was built by reporting professionals to standardize disclosure. ESG was built by investment analysts to evaluate non-financial performance. The SDGs were built by multilateral institutions to coordinate global action. Each community built what it needed. None built Betterment Verification, because Betterment Verification was not the question any single community was asking. The gap is the cumulative result of communities answering adjacent questions.
+   796→
+   797→The third reason is that the regulatory environment has rewarded compliance, not verification. Regulators can mandate disclosure. They can mandate assurance. They can mandate format and frequency. They cannot easily mandate Betterment Verification, because Betterment Verification requires architectural change within institutions, not just disclosure change. The regulatory environment has therefore produced a sophisticated compliance architecture — BRSR, the EU's Corporate Sustainability Reporting Directive, the International Sustainability Standards Board's standards — without producing a verification architecture. The regulatory environment has expanded the first five dimensions. It has not expanded the sixth.
+   798→
+   799→The fourth reason is that the Betterment Question has not, until now, been asked as a doctrinal question. It has been asked as an evaluation question, an audit question, a research question, a journalistic question. It has not been asked as the central question of a framework that provides the architecture to answer it. The framework this book presents asks the question doctrinally — and provides the architecture that makes the answer possible.
+   800→
+   801→> **Key Insight:** The gap persists because Betterment Verification is hard, because existing frameworks were built by different communities for different purposes, because the regulatory environment rewards compliance, and because the Betterment Question has not been asked doctrinally. The framework this book presents asks it doctrinally — and provides the architecture to answer it.
+   802→
+   803→---
+   804→
+   805→### A Brief Reference to Field Validation
+   806→
+   807→The framework that fills the gap emerged from years of field observation across multiple sectors and geographies, and it was subsequently confirmed through a multi-year empirical field investigation. The investigation is not the source of the framework. The framework is doctrinal — derived from observation and reasoning, not from statistical analysis. The investigation is the validation — the empirical confirmation that the framework's architecture corresponds to what institutions actually do when they produce, or fail to produce, demonstrable betterment.
+   808→
+   809→The full methodological treatment of the field investigation appears in Chapter 10. The main narrative references it only as confirmation, not as foundation. The framework stands on its doctrinal architecture. The validation confirms that the architecture bears weight. This separation — doctrine first, validation second — is deliberate. A framework that depends on its validation for its authority is a framework that depends on the survival of its validation. A framework that stands on its doctrinal architecture is a framework that endures.
+   810→
+   811→The reference here is brief because the main narrative does not require methodological detail. The reader who wants the methodological treatment will find it in Chapter 10. The reader who wants the doctrine will continue with Chapter 4, which presents the framework's architecture.
+   812→
+   813→> **One Sentence Summary:** The framework emerged from years of field observation and was confirmed through a multi-year empirical field investigation; the doctrine stands on its architecture, and the validation confirms the architecture bears weight.
+   814→
+   815→---
+   816→
+   817→### The Inevitability of the Sixth Dimension
+   818→
+   819→The comparative review has established three things. First, existing frameworks answer legitimate but different questions. Second, none of them answers the Betterment Question. Third, the dimension where the answer would live — Betterment Verification — is empty in the existing landscape.
+   820→
+   821→The reader who has followed the argument thus far may already be seeing the inevitability of what comes next. If the Betterment Question is real — if institutions genuinely need to demonstrate that their interventions produce betterment — and if no existing framework provides the architecture to answer it, then the architecture must be built. The framework this book presents is that architecture. It is not one option among many. It is the only architecture that answers the question the existing landscape leaves unanswered.
+   822→
+   823→The next chapter presents the framework's architecture. It opens Part II of the book, in which the framework is constructed in full. The construction begins with the central question: if the Proclamation Trap and the Legitimacy Gap cannot be closed from within existing paradigms, what architecture is required? The answer is the Five Pillars.
+   824→
+   825→> **Stop & Think:** The reader who has worked within any of the nine frameworks reviewed in this chapter — and who has felt the limit of that framework when asked the Betterment Question — is already recognizing the gap. The framework that fills the gap is the subject of the next four chapters. The reader who continues will see the architecture emerge, pillar by pillar, from the diagnosis this chapter has completed.
+   826→
+   827→---
+   828→
+   829→### [FIGURE PLACEHOLDER: FPF-ES-03 — Chapter 3 Executive Summary]
+   830→
+   831→**Visual Specification:**
+   832→- **Figure ID:** FPF-ES-03
+   833→- **Title:** Chapter 3 Executive Summary
+   834→- **Type:** Executive Summary Graphic
+   835→- **Chapter:** 3
+   836→- **Purpose:** To crystallize Chapter 3's essential content in a single, memorable visual.
+   837→- **Layout Description:** A single-page vertical layout. Top: "CHAPTER 3 — COMPARATIVE REVIEW OF CSR FRAMEWORKS" in bold. Below, five rows: Row 1 (Distinction): "Existing frameworks answer different questions. None answers the Betterment Question." Row 2 (Six Dimensions): "Compliance · Governance · Stakeholders · Reporting · Impact · Betterment Verification." Row 3 (The Gap): "The sixth dimension — Betterment Verification — is empty in the existing landscape." Row 4 (Positioning): "The Five Pillars Framework is a meta-framework — necessary but insufficient positioning. It completes, not replaces." Row 5 (Key Takeaway): "Existing frameworks are not failing. They are answering different questions. The Five Pillars Framework asks the question they collectively do not — and that is why it is needed." Arrows connecting each row downward. Black text. Grayscale fills. No color.
+   838→- **Caption:** Chapter 3 in one page.
+   839→- **Placement:** At the end of Chapter 3.
+   840→- **Cross-References:** FPF-009, FPF-010, FPF-011
+   841→
+   842→---
+   843→
+   844→### The Takeaway
+   845→
+   846→> Existing frameworks are not failing. They are answering different questions. The Five Pillars Framework asks the question they collectively do not — and that is why it is needed.
+   847→
+   848→### Reader Momentum
+   849→
+   850→The comparative review has established the gap. No existing framework demonstrates Betterment of Society. The first five dimensions of the Six Dimensions of Framework Evaluation are addressed; the sixth is empty. The reader now asks: what architecture would fill the sixth dimension? What architecture would close the Legitimacy Gap? What architecture would answer the Betterment Question? The answer — the Five Pillars Framework — is the subject of Part II. The architecture begins in the next chapter.
+   851→
+   852→---
+   853→
+   854→## CHAPTER 4 — THE FRAMEWORK ARCHITECTURE
+   855→
+   856→### [FIGURE PLACEHOLDER: FPF-CM-04 — Chapter 4 Map]
+   857→
+   858→**Visual Specification:**
+   859→- **Figure ID:** FPF-CM-04
+
+[showing lines 660-859 of 3158; use offset=860 with limit to continue reading]
