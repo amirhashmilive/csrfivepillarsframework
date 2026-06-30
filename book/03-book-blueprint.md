@@ -985,6 +985,30 @@ Each stage follows a three-step approval cycle:
 
 This cycle ensures that each stage receives one deliberate refinement before commitment, preventing both premature freezing and endless revision.
 
+### The Nine Freeze Acceptance Criteria
+
+A chapter or stage is not frozen because it is "good." It is frozen only when it passes all nine explicit, objective acceptance criteria:
+
+1. **Opening hooks attention within two pages** — The chapter's opening creates curiosity within the first two pages. A reader who reads only the first two pages wants to continue.
+
+2. **One central question per chapter** — The chapter answers one important question. If the chapter answers two questions, it is split or refocused.
+
+3. **Maximum four new core concepts per chapter** — The chapter introduces no more than four new core terms from the Terminology Glossary.
+
+4. **Every concept has at least one example** — Every new concept is illustrated by at least one composite archetype, mini case, or observational reflection.
+
+5. **Every figure passes the 30-Second Test** — Every figure in the chapter can be understood by an educated reader within 30 seconds.
+
+6. **Every chapter creates momentum into the next** — The chapter concludes with an unresolved question, insight, or tension (per Rule 14).
+
+7. **Every paragraph advances the argument** — No paragraph is decorative, repetitive, or filler. If a paragraph can be removed without loss, it is removed.
+
+8. **No redundant explanations** — No concept is redefined after its initial introduction. No explanation is repeated for emphasis.
+
+9. **Consistent terminology throughout** — Every term is used per the Terminology Glossary. No prohibited terms appear.
+
+The freeze is recorded in the Framework Evolution Register with the date and the criteria verification. Freezing is objective, not subjective.
+
 ### Execution Discipline
 - Each chapter is written to conform to the Blueprint exactly
 - No frozen chapter is rewritten (the Bible and Blueprint are frozen)

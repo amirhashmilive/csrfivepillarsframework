@@ -347,6 +347,57 @@ Each entry contains:
 
 ---
 
+### D-031 — Reader Experience Constitution (7th Governance Document)
+
+**Date:** [Stage 2 final revision — Cognitive architecture pass]
+**Decision:** Created the Reader Experience Constitution as the seventh governance document. It defines maximum paragraph length (8 sentences), maximum sentence length (35 words), maximum new terminology per chapter (4 core terms), maximum concept density per paragraph (1 new concept), where visuals are mandatory, where stories are mandatory, where summaries are mandatory, chapter rhythm, emotional pacing, cognitive pacing, and the Pattern Recognition Principle.
+**Rationale:** A book can be doctrinally rigorous and still lose the reader. The reader's mind fatigues, wanders, and needs recovery. The Reader Experience Constitution ensures the manuscript respects the reader's cognitive architecture as rigorously as it respects the framework's intellectual architecture. Without it, the book risks being admired and unread.
+**Status:** Active
+**Affected Documents:** All governance documents (cross-referenced), Blueprint (Execution Discipline), Bible (cross-referenced)
+
+---
+
+### D-032 — Cognitive Relief Elements
+
+**Date:** [Stage 2 final revision — Cognitive architecture pass]
+**Decision:** Every major section within every chapter must conclude with at least one Cognitive Relief element. Five types: Key Insight, Stop & Think, One Sentence Summary, Visual Recap, Mini Case. No two consecutive sections use the same type. Added as Framework Integrity Rule 16.
+**Rationale:** After every dense section, the brain needs recovery. Cognitive Relief elements are structured pauses that allow the reader to consolidate what they have read before continuing. They reduce fatigue dramatically and improve retention. Without them, dense material accumulates into cognitive overload.
+**Status:** Active
+**Affected Documents:** Bible (Rule 16), Reader Experience Constitution (Section 3), Blueprint (all chapter specifications)
+
+---
+
+### D-033 — Nine Freeze Acceptance Criteria
+
+**Date:** [Stage 2 final revision — Cognitive architecture pass]
+**Decision:** Freezing is objective, not subjective. A chapter or stage is frozen only when it passes all nine explicit acceptance criteria: (1) opening hooks within two pages, (2) one central question per chapter, (3) maximum four new core concepts, (4) every concept has at least one example, (5) every figure passes the 30-Second Test, (6) every chapter creates momentum, (7) every paragraph advances the argument, (8) no redundant explanations, (9) consistent terminology throughout.
+**Rationale:** Freezing based on "this feels good enough" is subjective and unreliable. Explicit, objective criteria make freezing a quality gate rather than a judgment call. This prevents both premature freezing and endless revision.
+**Status:** Active
+**Affected Documents:** Blueprint (Execution Sequence — Freeze Acceptance Criteria section)
+
+---
+
+### D-034 — Meta-Framework Positioning
+
+**Date:** [Stage 2 final revision — Cognitive architecture pass]
+**Decision:** The Five Pillars Framework is positioned as a meta-framework, not a replacement for existing CSR, ESG, or governance frameworks. Existing frameworks answer legitimate but different questions (what to be responsible for, how to govern, how to report). The Five Pillars Framework asks a different question: how can an organization credibly demonstrate that its interventions have resulted in the Betterment of Society? The positioning is "necessary but insufficient." Added as Framework Integrity Rule 15.
+**Rationale:** Positioning the framework as a replacement for Carroll's Pyramid, Stakeholder Theory, ESG, GRI, or BRSR is academically risky and invites readers to disprove the book by finding one successful case. Positioning it as a meta-framework that asks a different question is academically stronger, less confrontational, and more defensible. "Necessary but insufficient" is a position researchers, practitioners, regulators, and corporate leaders can accept without abandoning their existing frameworks.
+**Status:** Active
+**Affected Documents:** Bible (Rule 15, Section 1.4), Blueprint (all chapter specifications where existing frameworks are discussed), Glossary (Meta-Framework entry to be added)
+
+---
+
+### D-035 — Seven Governance Documents
+
+**Date:** [Stage 2 final revision — Cognitive architecture pass]
+**Decision:** The pre-manuscript architecture now consists of seven governance documents: (1) Framework Bible, (2) Concept Dependency Map, (3) Terminology Glossary, (4) Book Blueprint, (5) Framework Evolution Register, (6) Visual Communication Constitution, (7) Reader Experience Constitution.
+**Rationale:** The Reader Experience Constitution completes the governance architecture by addressing the reader's cognitive experience — the dimension none of the other six documents cover. Together, the seven documents ensure doctrinal, terminological, conceptual, structural, visual, decisional, and cognitive coherence.
+**Status:** Active
+**Supersedes:** D-026
+**Affected Documents:** All governance documents (cross-referenced), Blueprint (Closing section to be updated to reference seven documents)
+
+---
+
 ## AMENDMENT PROTOCOL
 
 ### When to Record a New Entry

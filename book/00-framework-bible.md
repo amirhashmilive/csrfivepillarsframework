@@ -336,6 +336,10 @@ These rules are non-negotiable. They govern what may and may not be done with th
 
 **Rule 14 — The Reader Momentum Rule.** Every chapter must conclude with an unresolved question, insight, or tension that naturally encourages the reader to continue. Each chapter must answer one important question while opening the next. This ensures the manuscript reads as a continuous journey rather than a series of independent essays. A chapter that closes without opening the next has failed the reader's momentum.
 
+**Rule 15 — The Meta-Framework Positioning Rule.** The Five Pillars Framework is positioned as a meta-framework, not a replacement for existing CSR, ESG, or governance frameworks. Existing frameworks answer legitimate but different questions: what organizations should be responsible for, how they should govern, how they should report. The Five Pillars Framework asks a different question: how can an organization credibly demonstrate that its interventions have resulted in the Betterment of Society? The positioning is "necessary but insufficient" — existing frameworks are necessary for their purposes but insufficient for demonstrating betterment. This positioning is academically stronger, less confrontational, and more defensible than positioning the framework as a replacement.
+
+**Rule 16 — The Cognitive Relief Rule.** Every major section within every chapter must conclude with at least one Cognitive Relief element (Key Insight, Stop & Think, One Sentence Summary, Visual Recap, or Mini Case). Cognitive Relief elements reduce reader fatigue, improve retention, and provide structured recovery after dense material. No two consecutive sections use the same Cognitive Relief type. The full specifications are defined in the Reader Experience Constitution.
+
 ---
 
 ## 5. WRITING CONSTITUTION
