@@ -398,6 +398,62 @@ Each entry contains:
 
 ---
 
+### D-036 — Universality Principle Formally Amended for Chapter 8
+
+**Date:** [Structural expansion — Comparative International Analysis]
+**Decision:** Rule 5 (Universality Enforcement) is formally amended to permit Chapter 8 (Comparative International Analysis of CSR Regimes) to name specific countries for the purpose of comparative regulatory analysis. The exception applies ONLY to Chapter 8. All other chapters maintain strict universality without naming specific geographies. The countries named in Chapter 8: India, United States, Germany, United Kingdom, China, Russia, Iran, South Africa, Kenya, Brazil.
+**Rationale:** The user's original Master Prompt (v5.1) explicitly prohibited naming India, Chhattisgarh, Jharkhand, or any specific country. This was locked as Rule 5. The user's subsequent recommendation to create a comparative international analysis chapter requires naming specific countries. Rather than violate the locked principle silently, the principle is formally amended through the Evolution Register amendment process. The exception is narrow (one chapter only) and serves the framework's universality by demonstrating that the framework applies across diverse regulatory contexts — not by reducing the framework to any single country's case.
+**Status:** Active
+**Supersedes:** (Original Rule 5 in Phase 0 Bible)
+**Affected Documents:** Bible (Rule 5 — formally amended), Blueprint (Chapter 8 specification), all governance documents (cross-referenced)
+
+---
+
+### D-037 — Book Restructured into Four Parts, Eleven Chapters
+
+**Date:** [Structural expansion — Comparative International Analysis]
+**Decision:** The book is restructured from 7 main chapters into 11 chapters organized in 4 Parts:
+- Part I: Diagnosis (Chapters 1–3) — Proclamation Trap, Legitimacy Gap, Comparative Review of CSR Frameworks
+- Part II: The Framework (Chapters 4–6) — Framework Architecture, Five Pillars in Depth, Trust Layer
+- Part III: Application (Chapters 7–9) — Institutional Operating System, Comparative International Analysis, New Legitimacy (includes Anticipating Criticism)
+- Part IV: Specialized (Chapters 10–11) — Empirical Validation, Mathematical Foundations
+**Rationale:** The structural expansion adds the Comparative Review (Chapter 3) and the Comparative International Analysis (Chapter 8) as new chapters, and adds the Anticipating Criticism section to Chapter 9. The four-Part organization provides clearer navigation for the reader and groups chapters by function (diagnosis, framework, application, specialized). The expansion increases the book from ~224 to ~271 pages.
+**Status:** Active
+**Supersedes:** (Original 7-chapter structure in Phase 1 Blueprint, and the ~224-page structure from D-027)
+**Affected Documents:** Blueprint (complete restructure), Bible (cross-references), Glossary (chapter locations updated), Dependency Map (chapter references updated)
+
+---
+
+### D-038 — Comparative Review of CSR Frameworks (New Chapter 3)
+
+**Date:** [Structural expansion — Comparative International Analysis]
+**Decision:** Added Chapter 3: Comparative Review of CSR Frameworks. This chapter conducts a structured comparative review of existing CSR, ESG, and governance frameworks (Carroll's Pyramid, Triple Bottom Line, Stakeholder Theory, Creating Shared Value, ESG, GRI, ISO 26000, SDGs, BRSR) to demonstrate that existing frameworks are necessary but insufficient — they answer different questions than the Betterment Question. The chapter includes a comprehensive Comparative Matrix and establishes the meta-framework positioning.
+**Rationale:** The comparative review demonstrates that the author has engaged seriously with existing frameworks and positions the Five Pillars Framework as the missing piece, not the replacement. This is academically stronger and more defensible than presenting the framework without engaging the existing landscape. The chapter is the bridge between the diagnosis (Chapters 1–2) and the framework (Chapters 4–6).
+**Status:** Active
+**Affected Documents:** Blueprint (Chapter 3 specification, TOC, Narrative Progression), Glossary (new concepts: Meta-Framework Positioning, Compliance-Betterment Distinction, Six Dimensions of Framework Evaluation)
+
+---
+
+### D-039 — Comparative International Analysis of CSR Regimes (New Chapter 8)
+
+**Date:** [Structural expansion — Comparative International Analysis]
+**Decision:** Added Chapter 8: Comparative International Analysis of CSR Regimes and Betterment of Society. The chapter evaluates ten countries (India, USA, Germany, UK, China, Russia, Iran, South Africa, Kenya, Brazil) against the Five Pillars Framework, testing the compliance-betterment paradox: do mandatory CSR regimes produce more demonstrable Betterment of Society than voluntary or low-compliance regimes? India is the largest section (drawing on the author's doctoral specialization). The chapter is intellectually honest — it does not assume compliance equals betterment and includes the paradox that low-compliance countries may sometimes produce better outcomes.
+**Rationale:** The compliance-betterment paradox is a genuinely original intellectual contribution. Testing whether mandatory regimes actually produce more demonstrable betterment than low-compliance regimes is the kind of question that makes the book intellectually honest and distinctive. The chapter demonstrates the framework's universality by applying it across diverse regulatory contexts. India receives the most detailed treatment as the world's most significant mandatory CSR regime and the author's area of doctoral specialization.
+**Status:** Active
+**Affected Documents:** Blueprint (Chapter 8 specification, TOC), Bible (Rule 5 formally amended — see D-036), Glossary (new concepts: Compliance-Betterment Paradox, Regulatory Diversity Principle, Cultural Betterment Mechanism)
+
+---
+
+### D-040 — Anticipating Criticism Section Added to Chapter 9
+
+**Date:** [Structural expansion — Comparative International Analysis]
+**Decision:** Chapter 9 (The New Legitimacy) is expanded to include a dedicated Anticipating Criticism section. The section addresses six anticipated criticisms: (1) Is betterment measurable? (2) Is betterment always attributable? (3) Can every project produce measurable change? (4) Does the framework disadvantage small organizations? (5) How is causality established? (6) What are the framework's limits? Each criticism is answered directly and honestly, including acknowledging genuine limitations.
+**Rationale:** Anticipating criticism is a mark of intellectual honesty that earns credibility with academic reviewers, practitioners, and regulators. Asking the difficult questions before critics raise them makes the framework more credible. The section also introduces three new concepts: The Limits of the Framework, The Attribution Challenge, and The Scale Equity Question — each reinforcing the framework's intellectual honesty.
+**Status:** Active
+**Affected Documents:** Blueprint (Chapter 9 specification), Glossary (new concepts: Limits of the Framework, Attribution Challenge, Scale Equity Question)
+
+---
+
 ## AMENDMENT PROTOCOL
 
 ### When to Record a New Entry

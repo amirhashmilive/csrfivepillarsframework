@@ -316,7 +316,7 @@ These rules are non-negotiable. They govern what may and may not be done with th
 
 **Rule 4 — Terminology Lock.** All terms in the Terminology Dictionary (Section 3) are used identically across every document. No synonyms. No contextual variations. No alternating between "Betterment of Society" and any alternative.
 
-**Rule 5 — Universality Enforcement.** The framework may never be presented as geographically or sectorally dependent. Field observations are converted to universal archetypes. No country, state, or region is named as the framework's origin or primary case in the main narrative.
+**Rule 5 — Universality Enforcement.** The framework may never be presented as geographically or sectorally dependent. Field observations are converted to universal archetypes. No country, state, or region is named as the framework's origin or primary case in the main narrative. **Formal Exception:** Chapter 8 (Comparative International Analysis of CSR Regimes) is permitted to name specific countries for the purpose of comparative regulatory analysis. This exception is formally recorded in the Framework Evolution Register (Decision D-036). The exception applies only to Chapter 8; all other chapters maintain strict universality without naming specific geographies.
 
 **Rule 6 — Implementing Agency Neutrality.** No conclusion may be drawn that one sector performs inherently better than another. The variable is always the implementing agency and its alignment across the five pillars — never the sector.
 
