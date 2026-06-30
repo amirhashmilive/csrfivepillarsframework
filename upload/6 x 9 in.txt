@@ -1,0 +1,40 @@
+## KDP Book Output Format Brief
+
+### Paperback Output Format
+
+| Setting                 | Specification                                                               |
+| ----------------------- | --------------------------------------------------------------------------- |
+| Output File             | Print-ready PDF                                                             |
+| Recommended Trim Size   | 6 × 9 in (152.4 × 228.6 mm)                                                 |
+| Page Size (No Bleed)    | 6 × 9 in                                                                    |
+| Page Size (With Bleed)  | 6.125 × 9.25 in (155.6 × 234.95 mm)                                         |
+| Bleed                   | Required if any image, illustration, or background extends to the page edge |
+| Minimum Outside Margins | 0.25 in (6.4 mm) without bleed; 0.375 in (9.6 mm) with bleed                |
+| Inside (Gutter) Margin  | Based on page count (0.375–0.875 in)                                        |
+| Page Count              | Must meet KDP minimum and maximum limits for the selected trim size         |
+
+---
+
+### Hardcover Output Format
+
+| Setting                 | Specification                                                                      |
+| ----------------------- | ---------------------------------------------------------------------------------- |
+| Output File             | Print-ready PDF                                                                    |
+| Recommended Trim Size   | 6 × 9 in (152.4 × 228.6 mm)                                                        |
+| Page Size (No Bleed)    | 6 × 9 in                                                                           |
+| Page Size (With Bleed)  | 6.125 × 9.25 in (155.6 × 234.95 mm)                                                |
+| Bleed                   | Required if any image, illustration, or background extends to the page edge        |
+| Minimum Outside Margins | 0.25 in (6.4 mm) without bleed; 0.375 in (9.6 mm) with bleed                       |
+| Inside (Gutter) Margin  | Based on page count (0.375–0.875 in)                                               |
+| Cover                   | Hardcover cover must use KDP's hardcover cover template (different from paperback) |
+
+---
+
+## Shared Requirements
+
+* **Interior file:** Print-ready PDF.
+* **Recommended trim size:** 6 × 9 inches (152.4 × 228.6 mm).
+* If **any page** requires bleed, the **entire interior** must be formatted with bleed.
+* Images intended to print to the edge must extend **0.125 in (3.2 mm)** beyond the trim line on the top, bottom, and outside edges.
+* The inside (gutter) margin must increase as page count increases.
+* The cover file is separate from the interior and must be generated using the appropriate KDP cover template for the selected book type (paperback or hardcover), trim size, page count, and paper type.

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  @page { size: landscape; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Times New Roman', Georgia, serif;
+    background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 40px;
+  }
+  .container { width: 1000px; }
+  .title {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #1a1a1a;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+  }
+  th, td {
+    border: 1px solid #1a1a1a;
+    padding: 10px 8px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  th {
+    background: #1a1a1a;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  th:first-child, td:first-child {
+    text-align: left;
+    font-weight: bold;
+    background: #f0f0f0;
+    width: 180px;
+  }
+  td.fpf-cell {
+    background: #e8e8e8;
+    font-weight: bold;
+  }
+  .check { color: #1a1a1a; font-weight: bold; font-size: 16px; }
+  .cross { color: #8a4a4a; font-weight: bold; font-size: 16px; }
+  .partial { color: #666; font-size: 14px; }
+  .caption {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 11px;
+    color: #555;
+    font-style: italic;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+  }
+  .legend {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 15px;
+    font-size: 11px;
+  }
+  .legend-item { display: flex; align-items: center; gap: 5px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="title">The Comparative Matrix: CSR Frameworks Evaluated Against Six Dimensions</div>
+  <table>
+    <thead>
+      <tr>
+        <th>Framework</th>
+        <th>Compliance</th>
+        <th>Governance</th>
+        <th>Stakeholders</th>
+        <th>Reporting</th>
+        <th>Impact</th>
+        <th>Betterment Verification</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Carroll's CSR Pyramid</td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="cross">✗</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="cross">✗</span></td>
+      </tr>
+      <tr>
+        <td>Triple Bottom Line</td>
+        <td><span class="partial">○</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="cross">✗</span></td>
+      </tr>
+      <tr>
+        <td>Stakeholder Theory</td>
+        <td><span class="partial">○</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="cross">✗</span></td>
+      </tr>
+      <tr>
+        <td>Creating Shared Value</td>
+        <td><span class="partial">○</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="cross">✗</span></td>
+      </tr>
+      <tr>
+        <td>GRI Standards</td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="cross">✗</span></td>
+      </tr>
+      <tr>
+        <td>ESG</td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="cross">✗</span></td>
+      </tr>
+      <tr>
+        <td>ISO 26000</td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="cross">✗</span></td>
+      </tr>
+      <tr>
+        <td>SDGs</td>
+        <td><span class="partial">○</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="cross">✗</span></td>
+      </tr>
+      <tr>
+        <td>BRSR</td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">○</span></td>
+        <td><span class="cross">✗</span></td>
+      </tr>
+      <tr>
+        <td class="fpf-cell">Five Pillars Framework</td>
+        <td class="fpf-cell"><span class="check">✓</span></td>
+        <td class="fpf-cell"><span class="check">✓</span></td>
+        <td class="fpf-cell"><span class="check">✓</span></td>
+        <td class="fpf-cell"><span class="check">✓</span></td>
+        <td class="fpf-cell"><span class="check">✓</span></td>
+        <td class="fpf-cell"><span class="check">✓</span></td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="legend">
+    <div class="legend-item"><span class="check">✓</span> Addresses dimension</div>
+    <div class="legend-item"><span class="partial">○</span> Partially addresses</div>
+    <div class="legend-item"><span class="cross">✗</span> Does not address</div>
+  </div>
+  <div class="caption">
+    Existing frameworks address the first five dimensions but none addresses the sixth — Betterment Verification. This is the gap the Five Pillars Framework fills. It does not replace existing frameworks; it completes them.
+  </div>
+</div>
+</body>
+</html>

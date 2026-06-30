@@ -1,0 +1,202 @@
+  1650→---
+  1651→
+  1652→### [TABLE PLACEHOLDER: FPF-021 — Trust Layer Application Across Three Archetypes]
+  1653→
+  1654→**Visual Specification:**
+  1655→- **Figure ID:** FPF-021
+  1656→- **Title:** Trust Layer Application Across Three Archetypes
+  1657→- **Type:** Comparison Table
+  1658→- **Chapter:** 6
+  1659→- **Purpose:** To show how the Trust Layer applies across sectors with different configurations.
+  1660→- **Layout Description:** Five-column comparison table. Column headers: "Trust Layer Component," "Multinational Extractive Enterprise," "Global Health Foundation," "Environmental Restoration Consortium," "Verification Challenge." Row labels: "Human component," "Procedural component," "Technological component," "Current Maturity," "Position on Gradient." Cells contain brief descriptions. Black text. Bold headers. Clean grid. No color.
+  1661→- **Caption:** The Trust Layer applies across sectors with different configurations. The components are the same — human, procedural, technological. The specific composition differs. The architecture is universal. The implementation is particular.
+  1662→- **Placement:** After the Three Archetypes section.
+  1663→- **Cross-References:** FPF-018, FPF-019, FPF-020
+  1664→
+  1665→---
+  1666→
+  1667→### The Trust Layer and the Compliance Theater
+  1668→
+  1669→The Trust Layer is the architectural alternative to the Compliance Theater. The relationship between the two is direct.
+  1670→
+  1671→The Compliance Theater, recall, is the performance of accountability through elaborate reporting that obscures the absence of demonstrable outcomes. The Compliance Theater is what accountability becomes when it is reduced to compliance. The institution that has made this reduction produces sophisticated reporting, satisfies audit requirements, earns compliance certificates — and remains structurally unable to answer the Betterment Question.
+  1672→
+  1673→The Trust Layer is what replaces the Compliance Theater when the institution recognizes that compliance is not accountability. The institution that builds the Trust Layer does not abandon compliance. It contextualizes it. Compliance remains — it is necessary for the functions it serves. But compliance is no longer the institution's primary accountability architecture. The Trust Layer is. The institution's claims are verified through the Trust Layer, not merely certified through the compliance architecture. The Compliance Theater gives way to the Trust Layer as the institution's primary accountability infrastructure.
+  1674→
+  1675→The transition from Compliance Theater to Trust Layer is the architectural transition the framework requires. It is not a transition the institution can make by adding the Trust Layer alongside the Compliance Theater. It is a transition the institution makes by rebuilding its accountability architecture around the Trust Layer, with compliance taking a supporting role. The institution that has made this transition has moved along the Proclamation-Proof Gradient — from position three (Compliance Theater) to position four (Trust Layer Operational) and toward position five (Trust Layer Embedded).
+  1676→
+  1677→The framework's position on the Compliance Theater is therefore not abolitionist. The framework does not propose that institutions abandon compliance. The framework proposes that institutions recognize compliance for what it is — a necessary but insufficient accountability function — and build the Trust Layer that makes accountability substantive. The Compliance Theater is the architecture the institution leaves behind. The Trust Layer is the architecture the institution builds in its place.
+  1678→
+  1679→> **Key Insight:** The Trust Layer is the architectural alternative to the Compliance Theater. The institution that builds the Trust Layer does not abandon compliance. It contextualizes it — compliance takes a supporting role, the Trust Layer becomes the primary accountability infrastructure. The Compliance Theater is what the institution leaves behind.
+  1680→
+  1681→---
+  1682→
+  1683→### [FIGURE PLACEHOLDER: FPF-ES-06 — Chapter 6 Executive Summary]
+  1684→
+  1685→**Visual Specification:**
+  1686→- **Figure ID:** FPF-ES-06
+  1687→- **Title:** Chapter 6 Executive Summary
+  1688→- **Type:** Executive Summary Graphic
+  1689→- **Chapter:** 6
+  1690→- **Purpose:** To crystallize Chapter 6's essential content in a single, memorable visual.
+  1691→- **Layout Description:** A single-page vertical layout. Top: "CHAPTER 6 — THE TRUST LAYER" in bold. Below, six rows: Row 1 (Paradox): "Technologies more powerful than ever. Claims less verifiable than ever." Row 2 (The Layer): "The Trust Layer — verification infrastructure: human, procedural, technological." Row 3 (Technology): "Technology is enabling infrastructure within the Trust Layer, not a doctrinal pillar." Row 4 (Maturity): "Trust Layer Maturity develops through five stages, from Absent to Embedded." Row 5 (Capital): "Trust Capital is built slowly through verified claims, depleted quickly through unverified ones." Row 6 (Key Takeaway): "The Trust Layer is not a technology. It is the architectural condition in which verification is possible, routine, and structurally embedded. Technology enables it; doctrine defines it." Arrows connecting each row downward. Black text. Grayscale fills. No color.
+  1692→- **Caption:** Chapter 6 in one page.
+  1693→- **Placement:** At the end of Chapter 6.
+  1694→- **Cross-References:** FPF-018, FPF-019, FPF-020, FPF-021
+  1695→
+  1696→---
+  1697→
+  1698→### The Takeaway
+  1699→
+  1700→> The Trust Layer is not a technology. It is the architectural condition in which verification is possible, routine, and structurally embedded. Technology enables it; doctrine defines it.
+  1701→
+  1702→### Reader Momentum
+  1703→
+  1704→The Five Pillars describe what institutions must be. The Trust Layer describes how their claims become credible. Together, they constitute the complete architecture for institutional legitimacy. But architecture is not implementation. The institution that has understood the architecture must still build it. Building the architecture is the work of institutional reconstruction — governance redesign, execution architecture redesign, the CEI as diagnostic instrument, the Trust Layer as operational infrastructure, and the institutional journey of Legitimacy Migration. That reconstruction is the subject of the next chapter.
+  1705→
+  1706→---
+  1707→
+  1708→## CHAPTER 7 — THE INSTITUTIONAL OPERATING SYSTEM
+  1709→
+  1710→### [FIGURE PLACEHOLDER: FPF-CM-07 — Chapter 7 Map]
+  1711→
+  1712→**Visual Specification:**
+  1713→- **Figure ID:** FPF-CM-07
+  1714→- **Title:** Chapter 7 Map — Book Journey
+  1715→- **Type:** Chapter Map
+  1716→- **Chapter:** 7
+  1717→- **Purpose:** Orient the reader at the beginning of Chapter 7, opening Part III.
+  1718→- **Layout Description:** A simple checklist showing the book's structure with Chapter 7 highlighted. □ Introduction & Prologue / ✓ Chapter 1: The Proclamation Trap / ✓ Chapter 2: The Legitimacy Gap / ✓ Chapter 3: Comparative Review / ✓ Chapter 4: The Framework Architecture / ✓ Chapter 5: The Five Pillars in Depth / ✓ Chapter 6: The Trust Layer / ■ Part III: Application — Chapter 7: The Institutional Operating System (You are here) / □ Part IV: Specialized (Chapters 10–11) / □ Epilogue. Black text. Highlighted item in bold with a filled square.
+  1719→- **Caption:** Book Journey — Chapter 7, opening Part III.
+  1720→- **Placement:** At the beginning of Chapter 7.
+  1721→- **Cross-References:** FPF-CM-06
+  1722→
+  1723→---
+  1724→
+  1725→### What an Institution That Has Built the Architecture Looks Like
+  1726→
+  1727→If the Five Pillars are the architecture and the Trust Layer is the verification, what does an institution that has actually built them look like?
+  1728→
+  1729→The answer is: different from any institution that exists today. Not unrecognizably different — the institution still has boards, executives, programs, reports, audits. But structurally different. The governance structures are different. The executive accountabilities are different. The relationship with implementing agencies is different. The diagnostic instruments are different. The verification infrastructure is different. The institutional culture is different. The institution that has built the Five Pillars and the Trust Layer has been reconstructed around the architecture. It is not the institution it was, with the framework added. It is a different institution, with the architecture as its operating system.
+  1730→
+  1731→This chapter describes the reconstruction. It covers the governance redesign that embeds the Five Pillars, the execution architecture that operationalizes the Implementing Agency Variable, the CEI as a diagnostic instrument, the Trust Layer as operational infrastructure, and the institutional journey of Legitimacy Migration. The chapter closes with the recognition that operationalizing the Five Pillars is not implementing a framework. It is reconstructing an institution around an architecture — and the institution that emerges is structurally different from the one that began.
+  1732→
+  1733→The reader who has followed the doctrine through Chapters 1 to 6 has understood the architecture. The reader who follows this chapter will see what building the architecture requires. The building is not a project. It is a re-architecture. The institution that takes the framework seriously does not add it to its reporting apparatus. It reconstructs itself around it.
+  1734→
+  1735→> **Key Insight:** An institution that has built the Five Pillars and the Trust Layer is not the institution it was, with the framework added. It is a different institution, with the architecture as its operating system. The reconstruction is not a project. It is a re-architecture.
+  1736→
+  1737→---
+  1738→
+  1739→### Governance Redesign
+  1740→
+  1741→The first reconstruction is governance. The Five Pillars cannot be embedded in an institution whose governance was designed for compliance reporting. The governance must be redesigned around the architecture.
+  1742→
+  1743→Governance redesign begins with the board. The board's responsibility shifts from oversight of reporting to oversight of outcome. The board that oversees reporting asks: Did the institution report as required? The board that oversees outcome asks: Did the institution produce the betterment it claimed? The two questions are different. The first is satisfied by reporting. The second is satisfied only by evidence. The board that has made the shift asks the second question, and the institution's executive structures must be redesigned to answer it.
+  1744→
+  1745→The board's committee structure changes. The traditional committee structure — audit, risk, governance, compensation — was designed for compliance oversight. The reconstructed structure adds an outcome committee, or reconfigures an existing committee to take outcome oversight as its primary function. The outcome committee's work is to specify the outcomes the institution is answerable for, to require evidence that the outcomes occurred, and to challenge claims that the evidence does not support. The outcome committee is the board-level embodiment of the Accountability pillar.
+  1746→
+  1747→The executive structures change. The chief sustainability officer role, traditionally responsible for reporting and compliance, is reconfigured as the chief accountability officer — responsible for the architecture that produces evidence, not the production of reports. The chief accountability officer's function is to build the Trust Layer, to ensure the CEI is used as a diagnostic instrument, and to ensure that the institution's claims meet the Skeptical Observer Standard. The chief accountability officer reports to the CEO and to the board's outcome committee. The role is not a sustainability role rebranded. It is a different role, with different accountabilities and different architecture.
+  1748→
+  1749→The executive compensation structures change. Executives are compensated not only for financial performance and operational delivery but for verified outcome. The compensation structure that rewards only financial performance and operational delivery incentivizes activity without outcome. The compensation structure that includes verified outcome incentivizes the architecture that produces outcome. The specific design of outcome-based compensation varies by institution, but the principle is constant: executives are held accountable for outcome, not only for activity.
+  1750→
+  1751→The governance redesign extends to the institution's relationship with its stakeholders. The board that has made the shift includes stakeholder representation, or establishes formal stakeholder advisory structures with meaningful authority. The stakeholder representation is not token. It is structural — stakeholders have access to information, authority to challenge claims, and the standing to participate in governance decisions that affect them. The governance that includes stakeholder representation has begun to address the Beneficiary Inversion at the architectural level.
+  1752→
+  1753→> **Stop & Think:** The institution you are thinking of — does its board oversee outcome, or only reporting? Does its executive structure include accountability for verified outcome, or only for activity? Does its compensation include outcome, or only financial and operational performance? If the honest answer is reporting, activity, and financial performance, the governance has not been redesigned. The Five Pillars cannot be embedded in governance that was designed for compliance.
+  1754→
+  1755→---
+  1756→
+  1757→### Execution Architecture — The Implementing Agency Variable in Practice
+  1758→
+  1759→The second reconstruction is execution architecture. The Implementing Agency Variable — the recognition that identical interventions produce different outcomes depending on the capability of the implementing agency — must be operationalized in the institution's execution architecture.
+  1760→
+  1761→The operationalization begins with the recognition that the institution's execution architecture is rarely the institution's own delivery capacity. Most institutions design initiatives and contract or partner with implementing agencies to deliver them. The Implementing Agency Variable applies to the implementing agencies, not only to the institution. The institution that takes the variable seriously builds its execution architecture around the selection, support, and verification of implementing agencies.
+  1762→
+  1763→The selection of implementing agencies becomes a structural function. The institution evaluates potential implementing agencies against the Five Pillars, not only against operational capability. Can the implementing agency specify the outcomes it is answerable for? Can it produce evidence of those outcomes? Does it engage stakeholders participatorily? Does it have the execution architecture to deliver? Can it communicate in ways stakeholders can use? The implementing agency that scores well on all five is selected. The implementing agency that scores well on operational capability but poorly on the pillars is not selected, regardless of its operational capability. The selection is architectural, not operational.
+  1764→
+  1765→The support of implementing agencies becomes a structural function. The institution recognizes that implementing agencies vary in their Pillar Coherence and that the variation produces different outcomes. The institution that takes the variable seriously builds support architecture — capacity building for Pillar Coherence, shared verification infrastructure, common diagnostic instruments. The institution does not assume that implementing agencies arrive with the architecture. It builds the architecture with them.
+  1766→
+  1767→The verification of implementing agencies becomes a structural function. The institution requires implementing agencies to produce evidence that meets the Skeptical Observer Standard. The institution does not assume that the implementing agency's reports are evidence. The institution verifies the reports — through the Trust Layer, through independent assessment, through community feedback. The institution's reporting architecture accounts for the Implementing Agency Variable by reporting outcome by implementing agency, not aggregated across implementing agencies. The aggregation hides the variation. The disaggregation reveals it.
+  1768→
+  1769→The execution architecture that operationalizes the Implementing Agency Variable produces a different kind of institutional report. The report does not say "We funded 50 programs, reached 1 million people, and produced X outcome." The report says "We funded 50 programs through 12 implementing agencies. The programs implemented by agencies A, B, and C produced the following verified outcomes. The programs implemented by agencies D and E produced the following outputs without verified outcomes. The programs implemented by agencies F and G did not reach their targets. We have replaced agencies F and G and rebuilt the execution architecture for the next cycle." The report is honest about the variation. The report is honest about the implementing agency variable. The report is honest about what worked and what did not.
+  1770→
+  1771→The execution architecture that operationalizes the Implementing Agency Variable is the architectural response to the framework's Implementing Agency Principle. The principle, recall, is that no sector performs inherently better than another. The variable is the implementing agency and its alignment across the five pillars. The execution architecture that takes the principle seriously is the architecture that selects, supports, and verifies implementing agencies against the five pillars. The architecture is the operationalization of the principle.
+  1772→
+  1773→> **Key Insight:** The Implementing Agency Variable is operationalized through the selection, support, and verification of implementing agencies against the Five Pillars. The institution that takes the variable seriously does not assume implementing agencies arrive with the architecture. It builds the architecture with them. And it reports outcome by implementing agency, not aggregated, because the aggregation hides the variation.
+  1774→
+  1775→---
+  1776→
+  1777→### The CEI as Diagnostic Instrument
+  1778→
+  1779→The third reconstruction is diagnostic. The CEI, introduced conceptually in Chapter 5, is operationalized as the institution's diagnostic instrument. The operationalization is not the use of the CEI as a scorecard. It is the use of the CEI as a diagnostic.
+  1780→
+  1781→The CEI as scorecard would rank institutions against each other. The institution with the highest CEI wins. The institution with the lowest CEI loses. The scorecard use creates competition, but it also creates the incentives that produced the Proclamation Trap — the incentive to claim what cannot be verified, to report activity as outcome, to dress proclamation in the costume of evidence. The CEI as scorecard would reproduce the very pathology the framework exists to correct.
+  1782→
+  1783→The CEI as diagnostic is different. The CEI diagnoses the institution against the framework's architectural standard. The institution's CEI score tells it where its Pillar Coherence is strong, where it is deficient, and what work remains. The CEI does not rank the institution against other institutions. It diagnoses the institution against the framework. The diagnostic use creates the incentive to build the architecture, not to game the score. The institution that uses the CEI as a diagnostic receives information that locates the work. The institution that uses the CEI as a scorecard receives a number that invites gaming.
+  1784→
+  1785→The diagnostic use of the CEI requires three architectural elements. The first is regular assessment — the institution assesses its CEI on a defined schedule, not as a one-time exercise. The second is honest reporting — the institution reports its CEI to its board, its stakeholders, and itself, with the honesty the diagnostic requires. The third is architectural response — the institution responds to the CEI's diagnosis with architectural work, not with communications. The three elements together produce the diagnostic discipline. The institution that has built the discipline uses the CEI to drive architectural improvement. The institution that has not built the discipline uses the CEI to drive public relations.
+  1786→
+  1787→The CEI as diagnostic also requires the institution to use the CEI alongside the Betterment Index. The CEI diagnoses the architecture. The Betterment Index diagnoses the outcome. The two together produce the full picture. The institution that uses only the CEI risks mistaking architectural sophistication for community betterment. The institution that uses only the Betterment Index risks missing the architectural deficiencies that will eventually undermine the betterment. The diagnostic discipline requires both.
+  1788→
+  1789→The institution that takes the CEI seriously treats it as an internal management instrument, not as an external reporting instrument. The CEI is reported externally, but its primary function is internal — to drive architectural improvement. The institution that uses the CEI for external reporting without internal use has inverted the diagnostic. The external reporting becomes the purpose. The internal improvement becomes the byproduct. The inversion reproduces the Transparency Trap. The diagnostic discipline keeps the internal improvement as the purpose and the external reporting as the byproduct.
+  1790→
+  1791→> **Mini Case:** An institution uses the CEI annually to diagnose its Pillar Coherence. The first year, the CEI reveals Pillar I deficiency — Initiative. The institution responds by rebuilding its initiative design process around Participatory Engagement. The second year, the CEI reveals that Pillar I has improved but Pillar O — Outcome — is now the deficient pillar. The institution responds by rebuilding its measurement architecture to produce Betterment Evidence. The third year, the CEI reveals Pillar Coherence has improved. The institution continues the diagnostic discipline. The CEI has driven architectural improvement. The institution is structurally different from the one that began.
+  1792→
+  1793→---
+  1794→
+  1795→### [FIGURE PLACEHOLDER: FPF-022 — The CEI Diagnostic Dashboard]
+  1796→
+  1797→**Visual Specification:**
+  1798→- **Figure ID:** FPF-022
+  1799→- **Title:** The CEI Diagnostic Dashboard
+  1800→- **Type:** Diagnostic Diagram (radar chart with pillar dimensions)
+  1801→- **Chapter:** 7
+  1802→- **Purpose:** To show how the CEI functions as a diagnostic instrument, not a scorecard.
+  1803→- **Layout Description:** A radar chart with five axes radiating from a central point, one for each pillar: A (Accountability), E (Execution), I (Initiative), O (Outcome), M (Meaning). On each axis, a marker indicating the institution's current score, on a scale from absent to embedded. A shaded polygon connecting the markers, showing the institution's Pillar Coherence profile. To the right of the radar chart, a small table: "CEI Score: 0.62," "WDC: 0.71," "SAI: 0.48," "L: 0.55," "Diagnosis: Pillar I deficiency, Trust Layer at Operational stage." Below the chart, text: "The CEI diagnoses Pillar Coherence. The diagnosis locates the work." Black text. Grayscale fills. No color.
+  1804→- **Caption:** The CEI Diagnostic Dashboard. The CEI is used as a diagnostic instrument, not a scorecard. The radar chart shows the institution's Pillar Coherence profile. The diagnosis identifies which pillar is deficient and where the architectural work remains.
+  1805→- **Placement:** After the CEI as Diagnostic Instrument section.
+  1806→- **Cross-References:** FPF-012, FPF-013
+  1807→
+  1808→---
+  1809→
+  1810→### The Trust Layer as Operational Infrastructure
+  1811→
+  1812→The fourth reconstruction is the Trust Layer. The Trust Layer, presented in Chapter 6 as the verification infrastructure, is operationalized in Chapter 7 as the institution's accountability infrastructure. The operationalization is the architectural work of building the human, procedural, and technological components into the institution's daily practice.
+  1813→
+  1814→The operationalization begins with the human component. The institution staffs its Trust Layer with independent verifiers — internal audit functions with true independence, external audit relationships with genuine authority, community-based monitors with real access, stakeholder panels with meaningful power. The institution does not treat the human component as a compliance function. It treats it as a legitimacy function. The verifiers are not there to confirm that the institution followed its processes. They are there to confirm that the institution's claims are true. The two functions are different. The first is compliance. The second is verification.
+  1815→
+  1816→The operationalization continues with the procedural component. The institution adopts procedural standards that meet the Skeptical Observer Standard. The standards govern how evidence is gathered, how claims are verified, how findings are reported, how conflicts of interest are managed. The standards are not the institution's own. They are externally benchmarked, peer-reviewed, and continuously improved. The institution that adopts its own standards without external benchmarking has standards, not verification. The institution that adopts externally benchmarked standards has verification architecture.
+  1817→
+  1818→The operationalization extends to the technological component. The institution deploys verification technologies — satellite, sensors, distributed ledgers, AI, mobile data — appropriate to its claims. The deployment is not technological showpiece. It is verification infrastructure. Each technology is deployed because it verifies specific claims that the institution makes, not because it is impressive. The institution that deploys technology for verification purposes builds the architecture. The institution that deploys technology for communication purposes builds the showpiece.
+  1819→
+  1820→The operationalization integrates the three components. The integration is what makes the Trust Layer operational rather than decorative. The institution that has independent auditors without procedural standards has humans without discipline. The institution that has procedural standards without verification technology has discipline without capacity. The institution that has verification technology without independent auditors has capacity without judgment. The Trust Layer requires all three, integrated. The integration is the architectural work.
+  1821→
+  1822→The operationalization produces a different kind of institutional report. The report is shorter, because it contains only claims that the Trust Layer has verified. The report is more credible, because every claim is independently verified. The report is more usable, because the verification architecture makes the claims accessible to stakeholders. The report is the product of the Trust Layer, not the product of the communications department. The institution that has operationalized the Trust Layer has reconstructed its reporting around verification, not around disclosure.
+  1823→
+  1824→> **Key Insight:** The Trust Layer is operationalized through the integration of its three components — human, procedural, technological. The integration is what makes the Trust Layer operational rather than decorative. The institution that has independent auditors without procedural standards has humans without discipline. The institution that has procedural standards without verification technology has discipline without capacity. The Trust Layer requires all three, integrated.
+  1825→
+  1826→---
+  1827→
+  1828→### Legitimacy Migration as Institutional Journey
+  1829→
+  1830→The fifth reconstruction is the journey. Legitimacy Migration, introduced in Chapter 2 as the institutional passage from expenditure-based legitimacy to evidence-based legitimacy, is operationalized in Chapter 7 as the institutional journey of architectural reconstruction.
+  1831→
+  1832→The journey is not a project. It is not an initiative. It is not a program. It is a re-architecture that takes years and that, once begun, does not end. The institution that has begun the journey is always in migration. The institution that has completed the migration — reached position five on the Proclamation-Proof Gradient, achieved an Embedded Trust Layer, attained Pillar Coherence — does not stop. It maintains the architecture through continual vigilance. The journey is the institutional condition, not a destination.
+  1833→
+  1834→The journey passes through three stages, described in Chapter 2: Recognition, Reconstruction, Demonstration. The operationalization in this chapter develops the stages into institutional practice.
+  1835→
+  1836→The Recognition stage requires the institution to acknowledge its Legitimacy Gap. The acknowledgment is not a confession. It is a diagnosis. The institution that recognizes its gap has not failed. It has begun to migrate. The recognition is documented — the institution's leadership writes the diagnosis, the board approves it, the institution communicates it to its stakeholders. The communication is not a public-relations exercise. It is the institutional commitment to migration. The institution that has documented its recognition has committed to the journey.
+  1837→
+  1838→The Reconstruction stage requires the institution to rebuild its architecture. The rebuilding is the work of governance redesign, execution architecture, the CEI as diagnostic, the Trust Layer as operational infrastructure. The rebuilding takes years. The institution that has begun the rebuilding is in the middle of the journey. The institution that has completed the rebuilding has reached the third stage.
+  1839→
+  1840→The Demonstration stage requires the institution to produce verified betterment. The institution can answer the Betterment Question. The institution can demonstrate, with evidence that meets the Skeptical Observer Standard, that its interventions produced measurable Betterment of Society. The demonstration is not a one-time achievement. It is the institutional condition. The institution that has reached Demonstration maintains the condition through continual architectural vigilance.
+  1841→
+  1842→The journey is maintained through what the framework calls architectural vigilance. The institution that has migrated can slip back. New leadership can reverse the architectural changes. New regulations can re-impose the Transparency Trap. New reporting fads can resurrect the Output Illusion. The institution that maintains the architecture does so through continual vigilance — regular CEI assessment, ongoing Trust Layer development, regular stakeholder engagement, periodic governance review. The vigilance is the work of maintaining the migration. The work is ongoing. The migration is not a project that ends. It is a discipline that continues.
+  1843→
+  1844→> **Visual Recap:** The Theory of Change Migration diagram (FPF-007), introduced in Chapter 2, captures the journey: from expenditure-based legitimacy, through Recognition, Reconstruction, and Demonstration, to evidence-based legitimacy. The journey is the institutional passage. The passage is maintained through architectural vigilance.
+  1845→
+  1846→---
+  1847→
+  1848→### [FIGURE PLACEHOLDER: FPF-023 — The Institutional Operating System]
+  1849→
+
+[showing lines 1650-1849 of 3158; use offset=1850 with limit to continue reading]

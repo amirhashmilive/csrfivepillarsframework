@@ -1,0 +1,9 @@
+
+English (Primary), Deutsch, Español, Français, Italiano, Nederlands, Português
+
+the other languages should not just translation, it has to be curated as per the language and there local most acceptably accents and references and lingo etc. 
+
+
+
+if working for Website should have Toggle for Light/Dark, and for the languages. 
+

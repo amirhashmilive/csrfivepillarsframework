@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  @page { size: landscape; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Times New Roman', Georgia, serif;
+    background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 40px;
+  }
+  .container { width: 1000px; }
+  .title {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #1a1a1a;
+  }
+  .formula-box {
+    border: 3px solid #1a1a1a;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    background: #f8f8f8;
+  }
+  .formula {
+    font-size: 32px;
+    font-weight: bold;
+    color: #1a1a1a;
+    letter-spacing: 2px;
+  }
+  .formula .bracket { font-size: 36px; }
+  .formula .superscript { font-size: 20px; vertical-align: super; }
+  .formula-label {
+    font-size: 13px;
+    color: #555;
+    margin-top: 10px;
+    font-style: italic;
+  }
+  .components {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+  .component {
+    flex: 1;
+    border: 2px solid #1a1a1a;
+    padding: 15px;
+    text-align: center;
+  }
+  .component-symbol {
+    font-size: 28px;
+    font-weight: bold;
+    color: #1a1a1a;
+    margin-bottom: 8px;
+  }
+  .component-name {
+    font-size: 12px;
+    font-weight: bold;
+    color: #1a1a1a;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+  .component-desc {
+    font-size: 11px;
+    color: #444;
+    line-height: 1.4;
+  }
+  .arrows-down {
+    text-align: center;
+    font-size: 24px;
+    color: #1a1a1a;
+    margin: 10px 0;
+  }
+  .result {
+    border: 2px solid #1a1a1a;
+    background: #1a1a1a;
+    color: #FFFFFF;
+    padding: 15px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  .caption {
+    text-align: center;
+    margin-top: 25px;
+    font-size: 11px;
+    color: #555;
+    font-style: italic;
+    line-height: 1.5;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="title">The CEI Architecture</div>
+  <div class="formula-box">
+    <div class="formula">
+      CEI = <span class="bracket">[</span> β · WDC + (1 − β) · SAI <span class="bracket">]</span> × L<span class="superscript">γ</span>
+    </div>
+    <div class="formula-label">The Composite Effectiveness Index</div>
+  </div>
+  <div class="components">
+    <div class="component">
+      <div class="component-symbol">WDC</div>
+      <div class="component-name">Weighted Delivery Composite</div>
+      <div class="component-desc">Captures the Execution and Outcome dimensions</div>
+    </div>
+    <div class="component">
+      <div class="component-symbol">SAI</div>
+      <div class="component-name">Stakeholder Alignment Index</div>
+      <div class="component-desc">Captures the Initiative and Meaning dimensions</div>
+    </div>
+    <div class="component">
+      <div class="component-symbol">L</div>
+      <div class="component-name">Legitimacy Factor</div>
+      <div class="component-desc">Reflects Trust Layer Maturity — multiplies or attenuates</div>
+    </div>
+  </div>
+  <div class="arrows-down">↓</div>
+  <div class="result">CEI — A SINGLE DIAGNOSTIC SCORE MEASURING INSTITUTIONAL EFFECTIVENESS</div>
+  <div class="caption">
+    The CEI combines weighted delivery performance (WDC), stakeholder alignment (SAI), and a legitimacy multiplier (L) into a single diagnostic score. Institutions with low legitimacy cannot achieve high CEI regardless of delivery performance — the Legitimacy Factor enforces the principle that legitimacy is foundational, not additive.
+  </div>
+</div>
+</body>
+</html>

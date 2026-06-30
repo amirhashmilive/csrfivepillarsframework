@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  @page { size: portrait; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Times New Roman', Georgia, serif;
+    background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 40px;
+  }
+  .container {
+    width: 600px;
+  }
+  .title {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    color: #1a1a1a;
+    margin-bottom: 30px;
+  }
+  .hierarchy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    position: relative;
+  }
+  .level {
+    border: 2px solid #1a1a1a;
+    text-align: center;
+    padding: 18px 20px;
+    margin-bottom: 0;
+    position: relative;
+  }
+  .level-label {
+    font-size: 14px;
+    font-weight: bold;
+    color: #1a1a1a;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+  }
+  .level-desc {
+    font-size: 12px;
+    color: #444;
+  }
+  .level-1 { width: 480px; background: #f5f5f5; }
+  .level-2 { width: 440px; background: #e0e0e0; }
+  .level-3 { width: 400px; background: #a0a0a0; }
+  .level-3 .level-label, .level-3 .level-desc { color: #1a1a1a; }
+  .level-4 { width: 360px; background: #1a1a1a; }
+  .level-4 .level-label { color: #FFFFFF; }
+  .level-4 .level-desc { color: #e0e0e0; }
+  .arrow {
+    width: 2px;
+    height: 20px;
+    background: #1a1a1a;
+    margin: 0 auto;
+    position: relative;
+  }
+  .arrow::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: -4px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 8px solid #1a1a1a;
+  }
+  .threshold {
+    width: 540px;
+    border-top: 2px dashed #1a1a1a;
+    margin: 10px auto;
+    padding-top: 8px;
+    text-align: center;
+    font-size: 11px;
+    font-weight: bold;
+    color: #1a1a1a;
+    font-style: italic;
+  }
+  .annotations {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 0 20px;
+  }
+  .annotation {
+    width: 200px;
+    font-size: 11px;
+    color: #555;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.4;
+  }
+  .annotation.left { text-align: left; }
+  .annotation.right { text-align: right; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="title">The Activity-Output-Outcome-Betterment Hierarchy</div>
+  <div class="hierarchy">
+    <div class="level level-4">
+      <div class="level-label">Betterment</div>
+      <div class="level-desc">Verified improvement in the condition of the community or system</div>
+    </div>
+    <div class="arrow"></div>
+    <div class="level level-3">
+      <div class="level-label">Outcome</div>
+      <div class="level-desc">What changed in the world</div>
+    </div>
+    <div class="threshold">— The Verification Threshold: rarely crossed by current reporting architectures —</div>
+    <div class="arrow"></div>
+    <div class="level level-2">
+      <div class="level-label">Output</div>
+      <div class="level-desc">What was produced</div>
+    </div>
+    <div class="arrow"></div>
+    <div class="level level-1">
+      <div class="level-label">Activity</div>
+      <div class="level-desc">What was done</div>
+    </div>
+  </div>
+  <div class="annotations">
+    <div class="annotation left">↑ Where most institutional reporting operates</div>
+    <div class="annotation right">Where evidence is required ↑</div>
+  </div>
+</div>
+</body>
+</html>
